@@ -1,9 +1,8 @@
 export default {
   global: {
-    componenteFormativo:
-      'Planeación del agroecosistema con enfoque agroecológico',
+    componenteFormativo: 'Alistamiento de la siembra de material vegetal.',
     descripcionCurso:
-      'En este componente, se conocerán las herramientas y elementos esenciales para ser implementados en la unidad productiva e iniciar un proceso de reconversión hacia la producción agroecológica y entender la importancia de los procesos de planificación y manejo agroecológicos que mejorarán la productividad.',
+      'En este componente formativo se abordan temas que le permitirán planificar el proceso de siembra del material vegetal, teniendo en cuenta el cultivo seleccionado, las técnica y condiciones agroecológicas, además del diseño de los arreglos productivos según especies seleccionadas, criterio técnico y principios agroecológicos, incluyendo equipos y herramientas necesarias, finalizando con la definición de las actividades, tiempos, recursos y responsables para llevar a cabo a la siembra según principios agroecológicos y criterio técnico.',
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.svg'),
     imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.png'),
     fondoBannerInterno: require('@/assets/curso/images/header/interno.svg'),
