@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Alistamiento de la siembra de material vegetal.',
+    componenteFormativo: 'Alistamiento de la siembra de material vegetal',
     descripcionCurso:
       'En este componente formativo se abordan temas que le permitirán planificar el proceso de siembra del material vegetal, teniendo en cuenta el cultivo seleccionado, las técnica y condiciones agroecológicas, además del diseño de los arreglos productivos según especies seleccionadas, criterio técnico y principios agroecológicos, incluyendo equipos y herramientas necesarias, finalizando con la definición de las actividades, tiempos, recursos y responsables para llevar a cabo a la siembra según principios agroecológicos y criterio técnico.',
     fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.svg'),
@@ -34,7 +34,7 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Diseño agroecológico',
+        titulo: 'Planificación de la siembra',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -46,7 +46,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Manejo de semillas y material de propagación.',
+            titulo: 'Manejo de semillas y material de propagación',
             hash: 't_1_2',
           },
           {
@@ -68,7 +68,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Tipo, limpieza, calibración y mantenimiento.',
+            titulo: 'Tipo, limpieza, calibración y mantenimiento',
             hash: 't_2_1',
           },
           {
@@ -146,12 +146,12 @@ export default {
   glosario: [
     {
       termino: 'Siembra',
-      significado: 'Dispersión de semillas en un terreno',
+      significado: 'Dispersión de semillas en un terreno.',
     },
     {
       termino: 'Semilla criolla:',
       significado:
-        'Aquellas semillas que han logrado adaptarse a unas determinadas condiciones del entorno,  de modo natural o por intervención antrópica',
+        'Aquellas semillas que han logrado adaptarse a unas determinadas condiciones del entorno,  de modo natural o por intervención antrópica.',
     },
     {
       termino: 'Arreglo topológico',
@@ -170,7 +170,7 @@ export default {
     },
     {
       termino: 'Material vegetativo',
-      significado: 'Parte de planta o planta viva destinadas a ser plantadas',
+      significado: 'Parte de planta o planta viva destinadas a ser plantadas.',
     },
     {
       termino: 'Voleo',
@@ -180,7 +180,7 @@ export default {
     {
       termino: 'Rotación de cultivos',
       significado:
-        'Alternar cultivos en un mismo suelo, con el fin  de preservar los nutrientes disponibles en el suelo',
+        'Alternar cultivos en un mismo suelo, con el fin  de preservar los nutrientes disponibles en el suelo.',
     },
     {
       termino: 'Calibración',
@@ -288,7 +288,7 @@ export default {
         centro: 'Centro de Comercio y Servicios - Regional Tolima',
       },
       {
-        nombre: '',
+        nombre: 'Mayra Alejandra Alvarez ',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

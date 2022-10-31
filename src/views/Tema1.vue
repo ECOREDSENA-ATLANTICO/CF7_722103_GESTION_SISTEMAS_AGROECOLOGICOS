@@ -212,14 +212,14 @@
                           .col-3.col-lg-3.lg-0
                             img(src='@/assets/curso/images/tema1/img_13.png' alt='AvatarTop')
                           .col-6.col-lg-9.lg-0
-                            p.mb-0 El suelo presenta un componente orgánico, el cual se conforma de organismos y microorganismos vivos, muertos y en estado de descomposición
+                            p.mb-0 El suelo presenta un componente orgánico, el cual se conforma de organismos y microorganismos vivos, muertos y en estado de descomposición.
                     .col-lg-6.lg-0
                       .jumbotron-4.p-3.mb-3(data-aos="fade-right")
                         .row.justify-content-center.align-items-star
                           .col-3.col-lg-3.lg-0
                             img(src='@/assets/curso/images/tema1/img_14.png' alt='AvatarTop')
                           .col-6.col-lg-9.lg-0
-                            p.mb-5 Genética del material de siembra
+                            p.mb-5 Genética del material de siembra.
             
     Separador
 
@@ -288,7 +288,7 @@
     Separador
 
     #t_1_2.titulo-segundo
-      .h2 1.2  Manejo de semillas y material de propagación.
+      .h2 1.2  Manejo de semillas y material de propagación
 
     .jumbotron-5.p-4.mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-stretch.mb-4
@@ -343,7 +343,7 @@
                       p.mb-0 Es importante que cuando se realice el proceso de desinfección, esté guiado por un experto en el área, con el fin de aplicar la dosis necesaria del desinfectante de tal modo que no se generen efectos adversos para la salud.
 
           .row.justify-content-center.align-items-center.mb-5(titulo="Escarificación")
-              p.mb-3 Es el proceso de desgaste de la cubierta de la semilla con el fin de permitir el paso del agua y 
+              p.mb-3 Es el proceso de desgaste de la cubierta de la semilla con el fin de permitir el paso del agua y oxígeno necesarios para iniciar la germinación. Esta se puede dar de manera:
               .col-sm-6.col-lg-4.mb-4.mb-xl-0
                 .jumbotron-8
                   .p-4
@@ -368,13 +368,13 @@
             
           .row.justify-content-center.align-items-star(titulo="Inoculación")
             .col-12.col-lg-6
-              p.mb-3 Es una técnica que consiste en adherir de manera efectiva de bacterias fijadoras de nitrógeno (Rhizobium o Bradyrhizobium) en la superficie de la semilla de leguminosas previo a la siembra, de esta manera las bacterias se fijan en las raíces cuando la semilla germina, formándose los nódulos, estructuras en donde se posicionan las bacterias fijadoras de nitrógeno haciéndolo aprovechable para la planta.
+              p.mb-3 Es una técnica que consiste en adherir de manera efectiva de bacterias fijadoras de nitrógeno (<i>Rhizobium o Bradyrhizobium</i>) en la superficie de la semilla de leguminosas previo a la siembra, de esta manera las bacterias se fijan en las raíces cuando la semilla germina, formándose los nódulos, estructuras en donde se posicionan las bacterias fijadoras de nitrógeno haciéndolo aprovechable para la planta.
             .col-8.col-lg-6
               img(src="@/assets/curso/images/tema1/img_22.png").mb-3
 
           .row.justify-content-center.align-items-star(titulo="Fitomejoramiento")
             .col-12.col-lg-6
-              p.mb-3 Con el fin de realizar actividades de mejoramiento de las especies vegetales, es una práctica que permite aumentar la productividad, calidad, resistencia a patógenos, eficiencia nutricional y algunas propiedades del cultivo. Mediante el mejoramiento genético:  
+              p.mb-3 Con el fin de realizar actividades de mejoramiento de las especies vegetales, es una práctica que permite aumentar la productividad, calidad, resistencia a patógenos, eficiencia nutricional y algunas propiedades del cultivo. Mediante el mejoramiento genético: se pueden obtener variedades más productivas, resistentes a variables climáticas y con mayor eficiencia en los procesos productivos.  
             .col-8.col-lg-6
               img(src="@/assets/curso/images/tema1/img_23.png").mb-3
 
@@ -404,7 +404,7 @@
             .row.justify-content-center.align-items-star.p-3
               .col-12.col-lg-4
                 h4 Profundidad
-                p.mb-3 Es la distancia a la cual va a ser enterrada la semilla, está condicionada al tipo de siembra, humedad del suelo, tipo de semilla, y tiempo en que se va a realizar la siembra. Ej. Suelo húmedo (siembra no tan profunda) suelo ligero (siembra profunda) y suelo pesado (siembra superficial)
+                p.mb-3 Es la distancia a la cual va a ser enterrada la semilla, está condicionada al tipo de siembra, humedad del suelo, tipo de semilla, y tiempo en que se va a realizar la siembra. Ej. Suelo húmedo (siembra no tan profunda) suelo ligero (siembra profunda) y suelo pesado (siembra superficial).
              
               .col-8.col-lg-6
                 img(src="@/assets/curso/images/tema1/img_25.png").mb-3
@@ -471,7 +471,7 @@
             figure
               img(src='@/assets/curso/images/tema1/img_30.png')
       
-
+    p.mb-3 <b>En surcos</b>, esta técnica depende del tamaño de la semilla, la cual consiste en distribuir las semillas en hileras, y a una distancia de dos o tres centímetros de separación. Ej. Sorgo, frijol, entre otros. 
     p.mb-3.text-center Cuando la siembra se realiza de manera directa y en surcos, se puede hacer
 
     ImagenInfografica.color-secundario.mb-5(data-aos="fade-right")
@@ -485,7 +485,7 @@
             .col-3.col-lg-3
               img(src='@/assets/curso/images/tema1/ico_12.svg')
             .col-md-9.mb-4.mb-md-0
-              p.mb-0 <b>En el camellón del surco:</b> las semillas son colocadas en el camellón del surco debido a las características propias del cultivo y para tener un buen manejo de las labores culturales (ejemplo: frijol, melón)
+              p.mb-0 <b>En el camellón del surco:</b> las semillas son colocadas en el camellón del surco debido a las características propias del cultivo y para tener un buen manejo de las labores culturales (ejemplo: frijol, melón).
 
       .tarjeta.color-acento-contenido.p-3(x="50%" y="80%" numero="")
         .h5.mb-3 Al fondo del surco

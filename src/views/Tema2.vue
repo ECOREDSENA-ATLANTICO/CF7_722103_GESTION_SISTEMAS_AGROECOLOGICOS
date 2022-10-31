@@ -104,7 +104,7 @@
                     .col-3.col-lg-4.lg-0
                       img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
                     .col-6.col-lg-8.lg-0
-                      p.mt-2 Mejoramiento de las técnicas de siembra. 
+                      p.mt-2 Mejoramiento de las técnicas de siembra
 
        
           
@@ -116,7 +116,7 @@
     Separador
 
     #t_2_1.titulo-segundo
-      .h2 2.1  Tipo, limpieza, calibración y mantenimiento.
+      .h2 2.1  Tipo, limpieza, calibración y mantenimiento
     
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-6(data-aos="fade-right") 
