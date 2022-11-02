@@ -234,25 +234,35 @@
 
     p.mb-3 Requiere de algunas actividades de labranza que involucra:
 
-    .row.justify-content-center.align-items-center.mb-3          
-      .col-8-lg-10
-        .custom_box_left-1(data-aos="fade-left") 
-          p.mb-0.mx-5 Control de malezas: es necesario despejar por completo el terreno para la preparación, tratado y posterior siembra, estas actividades dependen del origen del terreno (rastrojo grueso o mediano, ganadería, cultivos semestrales), por lo cual incluye equipos especiales que permitan realizarla limpieza adecuada, aunque en algunos casos se requiere de ultimación de control químico de malezas, cuya prescripción está dada por personal especializado en el área.
+    .row.justify-content-center.align-items-center.mb-5 
+      .jumbotron-14.p-4.mb-3
+        .row.justify-content-center.align-items-center.mb-3  
+          .col-6.col-lg-3
+            img(src='@/assets/curso/images/tema1/img_15_2.png')
+          .col-lg-9
+            p.mb-0 Control de malezas: es necesario despejar por completo el terreno para la preparación, tratado y posterior siembra, estas actividades dependen del origen del terreno (rastrojo grueso o mediano, ganadería, cultivos semestrales), por lo cual incluye equipos especiales que permitan realizarla limpieza adecuada, aunque en algunos casos se requiere de ultimación de control químico de malezas, cuya prescripción está dada por personal especializado en el área.
 
-    .row.justify-content-center.align-items-center.mb-3          
-      .col-8-lg-10
-        .custom_box_left-2(data-aos="fade-left") 
-          p.mb-0.mx-5 Control de plagas:  es importante identificar las posibles plagas que pueden afectar el cultivo, e identificar las condiciones para su desarrollo y de este modo poder inhibir los escenarios propicios que puedan afectar la plantación. Para contrarrestar este fenómeno se puede utilizar productos químicos o naturales, que estén supervisados por personal idóneo de tal modo que no se afecte el desarrollo adecuado de la plantación.
+      .jumbotron-14.p-4.mb-3
+        .row.justify-content-center.align-items-center.mb-3  
+          .col-6.col-lg-3
+            img(src='@/assets/curso/images/tema1/img_16_2.png')
+          .col-lg-9
+            p.mb-0 Control de plagas:  es importante identificar las posibles plagas que pueden afectar el cultivo, e identificar las condiciones para su desarrollo y de este modo poder inhibir los escenarios propicios que puedan afectar la plantación. Para contrarrestar este fenómeno se puede utilizar productos químicos o naturales, que estén supervisados por personal idóneo de tal modo que no se afecte el desarrollo adecuado de la plantación.
 
-    .row.justify-content-center.align-items-center.mb-3          
-      .col-8-lg-10
-        .custom_box_left-3(data-aos="fade-left") 
-          p.mb-0.mx-5 Humedad:  los terrenos son preparados cuando han adquirido cierto grado de humedad que permita el desarrollo de actividades de labranza.
+      .jumbotron-14.p-4.mb-3
+        .row.justify-content-center.align-items-center.mb-3  
+          .col-6.col-lg-3
+            img(src='@/assets/curso/images/tema1/img_17_2.png')
+          .col-lg-9 
+            p-mb-0 Humedad:  los terrenos son preparados cuando han adquirido cierto grado de humedad que permita el desarrollo de actividades de labranza.
 
-    .row.justify-content-center.align-items-center.mb-4          
-      .col-8-lg-10
-        .custom_box_left-4(data-aos="fade-left") 
-          p.mb-0.mx-5 Compactación: este fenómeno restringe el intercambio gaseoso, el drenaje y desarrollo de las raíces, por ende indispensable realizar labores de remoción del suelo que permitan mejorar sus condiciones.
+      .jumbotron-14.p-4
+        .row.justify-content-center.align-items-center.mb-3  
+          .col-6.col-lg-3
+            img(src='@/assets/curso/images/tema1/img_18_2.png')
+          .col-lg-9
+            p.mb-0 Compactación: este fenómeno restringe el intercambio gaseoso, el drenaje y desarrollo de las raíces, por ende indispensable realizar labores de remoción del suelo que permitan mejorar sus condiciones.
+  
     
     .row.align-items-center.justify-content-star.mb-5.ps-2(data-aos="zoom-in-down")
       .col-lg-10.bg-color-1.px-3.py-1
@@ -292,7 +302,7 @@
 
     .jumbotron-5.p-4.mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-stretch.mb-4
-        .col-lg-4.lg-0
+        .col-6.col-lg-4.lg-0
           img.mt-3(src='@/assets/curso/images/tema1/img_19.svg')
         .col-lg-8.lg-0
           p.mt-5 La semilla es una parte de la planta con flores, que habitualmente se encuentra dentro del fruto, en cuyo interior se encuentra el embrión, el cual bajo unas condiciones adecuadas da lugar a una nueva planta. Está formada por tres partes, siendo estas, <b style='color:#0B481E'>el embrión, los tejidos de almacenamiento y las cubiertas protectoras; a su vez la germinación se da por absorción de agua (remojo), la cual causa el hinchamiento de la misma y finalmente se da ruptura de la cubierta protectora,</b> seguido se da el inicio a la actividad enzimática y el metabolismo respiratorio, con la asimilación de las reservas que estimulan el embrión, terminando con el crecimiento, evidenciándose de esta manera que emerge la raíz y posteriormente el tallo. Para que dichas etapas sucedan de una manera exitosa se requiere que en el proceso de germinación se seleccione un buen sustrato y manejen adecuadamente la humedad, el oxígeno y la temperatura.
@@ -335,7 +345,7 @@
           
             .col-lg-12
               .row.justify-content-center.align-items-star.my-3
-                .jumbotron-7.p-2(data-aos="fade-left") 
+                .jumbotron-7.p-3(data-aos="fade-left") 
                   .row.justify-content-around.align-items-center
                     .col-lg-2.col-6.d-flex.justify-content-center
                       img.mt-4(src='@/assets/curso/images/tema1/ico_9.svg',  alt='', style="width:120px; display:block; margin:auto 0 ;").mb-3
