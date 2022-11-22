@@ -1,1 +1,1 @@
-module.exports = 'Planeación del agroecosistema con enfoque agroecológico'
+module.exports = 'Alistamiento de la siembra de material vegetal.'

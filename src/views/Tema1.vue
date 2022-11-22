@@ -12,12 +12,12 @@
         p.mb-3 La siembra es sin lugar a duda un factor crucial en el ciclo productivo, por ello, es importante dar cumplimiento a cada uno de los parámetros técnicos, con el fin de reducir las posibles variables e impactos que repercuten en la productividad, permitan optimizar recursos agroecológicos del cultivo, al igual que reducir costos del proceso.
 
         p.mb-0 Para poder llevar a cabo la siembra del cultivo, se debe alistar el material vegetal, además otras actividades de alistamiento, como la preparación del suelo, las áreas para la siembra, el manejo de la semilla, las condiciones ambientales, entre otros.
-      .col-10.col-lg-5(data-aos="fade-right") 
+      .col-12.col-lg-5(data-aos="fade-right") 
         img(src='@/assets/curso/images/tema1/img_1.png'  alt='')
 
     .row.align-items-center.justify-content-star.mb-5.ps-2(data-aos="zoom-in-down")
-      .col-lg-10.bg-color-1.px-3.py-1
-        .h4.mx-3.mb-0 Condiciones del terreno
+      .col-lg-10.bg-color-1.px-5.py-2
+        .h3.mx-2.mb-0 Condiciones del terreno
 
     p.mb-3 Para la siembra de un cultivo, se requiere de algunos estudios, cálculos, entre otros que permitan determinar las condiciones adecuadas del terreno para su establecimiento, allí encontramos: planimetría, altimetría, diseño de drenajes y diseño de áreas de siembra. En el siguiente recurso se puede profundizar en estos aspectos: 
 
@@ -31,30 +31,29 @@
                 p.mb-3 Es la manera gráfica de identificar la información de un terreno, para lo cual se elabora un plano antes de establecer el cultivo, donde se establezca la cantidad de área del terreno, según su uso, además de linderos, fuentes hídricas, zonas de reserva, carreteras, redes eléctricas, construcciones, entre otros.
 
                 .jumbotron
-                  .row.align-items-star.p-2
+                  .row.justify-content-center.align-items-center.p-2
                     .col-3.col-lg-3
                       img(src="@/assets/curso/images/tema1/ico_1.svg")
                     .col-lg-9
-                      h3.mb-0 Casas
-                  .row.align-items-star.p-2
+                      h5.mb-0 Casas
+                  .row.justify-content-center.align-items-center.p-2
                     .col-3.col-lg-3
                       img(src="@/assets/curso/images/tema1/ico_2.svg")
                     .col-lg-9
-                      h3.mb-0 Rios
-                  .row.align-items-star.p-2
+                      h5.mb-0 Rios
+                  .row.justify-content-center.align-items-center.p-2
                     .col-3.col-lg-3
                       img(src="@/assets/curso/images/tema1/ico_3.svg")
                     .col-lg-9
-                      h3.mb-0 Cercas
+                      h5.mb-0 Cercas
 
               .col-12.col-lg-6
                 img.mt-3(src="@/assets/curso/images/tema1/img_2.png").mb-3
            
             .row.justify-content-center.align-items-star.p-3
-              .col-12.col-lg-12
+              .col-12.col-lg-10
                 p.mb-5 Para poder realizar actividades de planimetría se requiere de equipo con tecnología especializada como es el caso del teodolito y GPS, además se requiere de elementos de interpretación  como:
-          
-                img(src="@/assets/curso/images/tema1/fig_1.svg").mb-3
+                img(src="@/assets/curso/images/tema1/fig_1_1.svg").mb-3
            
             .row.justify-content-center.align-items-star.p-3
               .col-12.col-lg-4
@@ -71,110 +70,115 @@
                 img(src="@/assets/curso/images/tema1/img_4.png").mb-3
 
             .row.justify-content-center.align-items-star.p-3
-              .col-12.col-lg-12
+              .col-12.col-lg-10
                 p.mb-3 Un plano de diseño de siembra establece y delimita los lotes en los cuales se realizará la plantación, lo cual se conoce como nomenclatura de lotes, la cual incluye:
-                .row.justify-content-center.align-items-stretch.mb-4
-                  .col-lg-3(data-aos="fade-right")
+                .row.justify-content-center.align-items-stretch.mb-0
+                  .col-8.col-lg-3.mb-3(data-aos="fade-right")
                     .jumbotron-1.p-2.mb-1
                       .row.justify-content-center.align-items-center
-                        .col-3.col-lg-4.lg-0
-                          img(src='@/assets/curso/images/tema1/ico_4.svg' alt='AvatarTop')
+                        .col-5.col-lg-4.lg-0
+                          img.mt-3(src='@/assets/curso/images/tema1/ico_4.svg' alt='AvatarTop')
                         .col-6.col-lg-8.lg-0
-                          p.my-4  Año de siembra.
+                          p.mt-5 Año de siembra.
 
-                  .col-lg-3(data-aos="fade-right")
+                  .col-8.col-lg-3.mb-3(data-aos="fade-right")
                     .jumbotron-1.p-2.mb-1
                       .row.justify-content-center.align-items-center
-                        .col-3.col-lg-4.lg-0
+                        .col-5.col-lg-4.lg-0
                           img(src='@/assets/curso/images/tema1/ico_5.svg' alt='AvatarTop')
                         .col-6.col-lg-8.lg-0
                           p.mt-4  Tipo de material genético.
 
-                  .col-lg-3(data-aos="fade-right")
+                  .col-8.col-lg-3.mb-3(data-aos="fade-right")
                     .jumbotron-1.p-2.mb-1
                       .row.justify-content-center.align-items-center
-                        .col-3.col-lg-4.lg-0
+                        .col-5.col-lg-4.lg-0
                           img(src='@/assets/curso/images/tema1/ico_6.svg' alt='AvatarTop')
                         .col-6.col-lg-8.lg-0
                           p.mt-4 Área del lote en hectáreas.
 
                 .row.justify-content-center.align-items-stretch.mb-4
-                  .col-lg-3(data-aos="fade-right")
-                    .jumbotron-1.p-2.mb-1
+                  .col-8.col-lg-3.mb-3(data-aos="fade-right")
+                    .jumbotron-1.p-4.mb-1
                       .row.justify-content-center.align-items-center
-                        .col-3.col-lg-4.lg-0
+                        .col-5.col-lg-4.lg-0
                           img(src='@/assets/curso/images/tema1/ico_7.svg' alt='AvatarTop')
                         .col-6.col-lg-8.lg-0
-                          p.mb-4  Número de especies sembradas.
+                          p.mb-0  Número de especies sembradas.
 
-                  .col-lg-3(data-aos="fade-right")
+                  .col-8.col-lg-3(data-aos="fade-right")
                     .jumbotron-1.p-2.mb-1
                       .row.justify-content-center.align-items-center
-                        .col-3.col-lg-4.lg-0
+                        .col-5.col-lg-4.lg-0
                           img(src='@/assets/curso/images/tema1/ico_8.svg' alt='AvatarTop')
                         .col-6.col-lg-8.lg-0
-                          p.my-4 Fecha de siembra.
-
+                          p.mt-4 Fecha de siembra.
             .row.justify-content-center.align-items-star.p-3
               .col-12.col-lg-12
+                h4.mb-3 Características del suelo
+                p.mb-3 El suelo está compuesto por:
+                  .row.justify-content-center.align-items-star
+                    .col-12.col-lg-12
+                      img(src="@/assets/curso/images/tema1/fig_3.svg").mb-3
+                    
+            .row.justify-content-center.align-items-star.p-3
+              .col-12.col-lg-10
                 h4 Características del suelo
                 .row.justify-content-center.align-items-star.p-3
-                  .col-12.col-lg-12
-                    h4 Características del suelo
-                    p.mb-3 <b style='color:#0B481E'>Morfológicas  </b>   
-                    .row.justify-content-center.align-items-stretch.mb-4
-                      .col-lg-12(data-aos="fade-right")
-                        .jumbotron-2.p-3.mb-3(data-aos="fade-right")
-                          .row.justify-content-center.align-items-center
-                            .col-3.col-lg-2.lg-0
-                              img(src='@/assets/curso/images/tema1/img_5.png' alt='AvatarTop')
-                            .col-6.col-lg-10.lg-0
-                              p.mb-2 <b style='color:#0B481E'>TEXTURA</b>  
-                              p.mb-0 Se encarga de dar propiedades particulares al suelo, puede ser arenas, limos y arcillas, depende del tamaño de la partícula en la porción de suelo.
+                  p.mb-3 <b style='color:#0B481E'>Morfológicas  </b>   
+                  .row.justify-content-center.align-items-stretch.mb-4
+                    .col-lg-12(data-aos="fade-right")
+                      .jumbotron-2.p-3.mb-3(data-aos="fade-right")
+                        .row.justify-content-center.align-items-center
+                          .col-8.col-lg-2.lg-0
+                            img(src='@/assets/curso/images/tema1/img_5.png' alt='AvatarTop').mb-3
+                          .col-10.col-lg-10.lg-0
+                            p.mb-2 <b style='color:#0B481E'>TEXTURA</b>  
+                            p.mb-0 Se encarga de dar propiedades particulares al suelo, puede ser arenas, limos y arcillas, depende del tamaño de la partícula en la porción de suelo.
 
-                        .jumbotron-2.p-3.mb-3(data-aos="fade-right")
-                          .row.justify-content-center.align-items-center
-                            .col-3.col-lg-2.lg-0
-                              img(src='@/assets/curso/images/tema1/img_6.svg' alt='AvatarTop')
-                            .col-6.col-lg-10.lg-0
-                              p.mb-2 <b style='color:#0B481E'>ESTRUCTURA </b>  
-                              p.mb-0  De gran importancia en la permeabilidad del suelo, resistencia a la erosión y facilidad de trabajo, por lo cual puede ser laminar, prismática, columnar, granular y amorfa.
+                      .jumbotron-2.p-3.mb-3(data-aos="fade-right")
+                        .row.justify-content-center.align-items-center
+                          .col-8.col-lg-2.lg-0
+                            img(src='@/assets/curso/images/tema1/img_6.svg' alt='AvatarTop').mb-3
+                          .col-10.col-lg-10.lg-0
+                            p.mb-2 <b style='color:#0B481E'>ESTRUCTURA </b>  
+                            p.mb-0  De gran importancia en la permeabilidad del suelo, resistencia a la erosión y facilidad de trabajo, por lo cual puede ser laminar, prismática, columnar, granular y amorfa.
 
-                        .jumbotron-2.p-3.mb-3(data-aos="fade-right")
-                          .row.justify-content-center.align-items-center
-                            .col-3.col-lg-2.lg-0
-                              img(src='@/assets/curso/images/tema1/img_7.png' alt='AvatarTop')
-                            .col-6.col-lg-10.lg-0
-                              p.mb-2 <b style='color:#0B481E'>COLOR</b> 
-                              p.mb-0 En términos generales, el color negro indica alto contenido de materia orgánica, el color rojo indica abundancia de compuestos de hierro y con buen drenaje, el color gris  con poco drenaje.
+                      .jumbotron-2.p-3.mb-3(data-aos="fade-right")
+                        .row.justify-content-center.align-items-center
+                          .col-8.col-lg-2.lg-0
+                            img(src='@/assets/curso/images/tema1/img_7.png' alt='AvatarTop').mb-3
+                          .col-10.col-lg-10.lg-0
+                            p.mb-2 <b style='color:#0B481E'>COLOR</b> 
+                            p.mb-0 En términos generales, el color negro indica alto contenido de materia orgánica, el color rojo indica abundancia de compuestos de hierro y con buen drenaje, el color gris  con poco drenaje.
 
             .row.justify-content-center.align-items-star.p-3
-              .col-12.col-lg-12
+              .col-12.col-lg-10
                 h4 Características del suelo
                 p.mb-3 <b style='color:#0B481E'>Físicas</b>   
                 .row.justify-content-center.align-items-stretch.mb-4
-                  .col-lg-4.lg-0
-                    .jumbotron-3.p-4.mb-3(data-aos="fade-right")
+                  .col-lg-4.lg-0.mb-3
+                    .jumbotron-3-1.p-4.mb-3(data-aos="fade-right")
                       .row.justify-content-center.align-items-star
-                        .col-3.col-lg-8.lg-0
+                        .col-8.col-lg-8.lg-0
                           img(src='@/assets/curso/images/tema1/img_8.svg' alt='AvatarTop').mb-3
                       .row.justify-content-center.align-items-center
                         .col-12.col-lg-12.lg-0
                           p.mb-2.text-center <b style='color:#0B481E'>PROFUNDIDAD </b>  
                           p.mb-3 Este factor puede favorecer o perjudicar el crecimiento de las raíces, pues entre más profundo más probabilidad para que la raíz busque agua y nutrientes. Encontramos horizonte A, horizonte B y horizonte C.lo.
-                  .col-lg-4.lg-0
-                    .jumbotron-3.p-4.mb-3(data-aos="fade-right")
+                  .col-lg-4.lg-0.mb-3
+                    .jumbotron-3-1.p-4.mb-3(data-aos="fade-right")
                       .row.justify-content-center.align-items-center
-                        .col-3.col-lg-8.lg-0
+                        .col-8.col-lg-8.lg-0
                           img(src='@/assets/curso/images/tema1/img_9.svg' alt='AvatarTop').mb-4
                       .row.justify-content-center.align-items-center
                         .col-12.col-lg-12.lg-0
                           p.mb-3.text-center  <b style='color:#0B481E'>PERMEABILIDAD</b>  
                           p.mb-5  Facilidad de circulación del agua y aire en el suelo, lo cual depende de la cantidad y tamaño de los poros existentes.
                   .col-lg-4.lg-0
-                    .jumbotron-3.p-4.mb-3(data-aos="fade-right")
+                    .jumbotron-3-1.p-4.mb-3(data-aos="fade-right")
                       .row.justify-content-center.align-items-center
-                        .col-3.col-lg-8.lg-0
+                        .col-8.col-lg-8.lg-0
                           img(src='@/assets/curso/images/tema1/img_10.svg' alt='AvatarTop').mb-2
                       .row.justify-content-center.align-items-center
                         .col-12.col-lg-12.lg-0
@@ -183,24 +187,24 @@
 
 
             .row.justify-content-center.align-items-star.p-3
-              .col-12.col-lg-12
+              .col-12.col-lg-10
                 h4.mb-3 Características del suelo
                   p.my-3 <b style='color:#0B481E'>Físicas</b>   
                   .row.justify-content-center.align-items-stretch.mb-3
                     .col-lg-6.lg-0
                       .jumbotron-3.p-3.mb-3(data-aos="fade-right")
                         .row.justify-content-center.align-items-star
-                          .col-3.col-lg-3.lg-0
-                            img(src='@/assets/curso/images/tema1/img_11.png' alt='AvatarTop')
-                          .col-6.col-lg-9.lg-0
+                          .col-8.col-lg-3.lg-0
+                            img(src='@/assets/curso/images/tema1/img_11.png' alt='AvatarTop').mb-3
+                          .col-10.col-lg-9.lg-0
                             p.mb-2 <b style='color:#0B481E'>ACIDEZ</b>  
                             p.mb-0 Para determinar la acidez de un suelo se expresa en pH, siendo 0 a 6.5 ácido, 7 neutro y 7.5 a 14 alcalino, y cuando se debe corregir se aplican enmiendas capaces de neutralizar.
                     .col-lg-6.lg-0
                       .jumbotron-4.p-3.mb-3(data-aos="fade-right")
                         .row.justify-content-center.align-items-star
-                          .col-3.col-lg-3.lg-0
-                            img(src='@/assets/curso/images/tema1/img_12.png' alt='AvatarTop')
-                          .col-6.col-lg-9.lg-0
+                          .col-8.col-lg-3.lg-0
+                            img(src='@/assets/curso/images/tema1/img_12.png' alt='AvatarTop').mb-3
+                          .col-10.col-lg-9.lg-0
                             p.mb-3 <b style='color:#0B481E'>FERTILIDAD</b>  
                             p.mb-5 Hace referencia a la cantidad y calidad de los elementos de tipo nutricional para la planta.
                       
@@ -209,16 +213,16 @@
                     .col-lg-6.lg-0
                       .jumbotron-3.p-3.mb-3(data-aos="fade-right")
                         .row.justify-content-center.align-items-star
-                          .col-3.col-lg-3.lg-0
-                            img(src='@/assets/curso/images/tema1/img_13.png' alt='AvatarTop')
-                          .col-6.col-lg-9.lg-0
+                          .col-8.col-lg-3.lg-0
+                            img(src='@/assets/curso/images/tema1/img_13.png' alt='AvatarTop').mb-3
+                          .col-10.col-lg-9.lg-0
                             p.mb-0 El suelo presenta un componente orgánico, el cual se conforma de organismos y microorganismos vivos, muertos y en estado de descomposición.
                     .col-lg-6.lg-0
                       .jumbotron-4.p-3.mb-3(data-aos="fade-right")
                         .row.justify-content-center.align-items-star
-                          .col-3.col-lg-3.lg-0
-                            img(src='@/assets/curso/images/tema1/img_14.png' alt='AvatarTop')
-                          .col-6.col-lg-9.lg-0
+                          .col-8.col-lg-3.lg-0
+                            img(src='@/assets/curso/images/tema1/img_14.png' alt='AvatarTop').mb-3
+                          .col-10.col-lg-9.lg-0
                             p.mb-5 Genética del material de siembra.
             
     Separador
@@ -235,62 +239,97 @@
     p.mb-3 Requiere de algunas actividades de labranza que involucra:
 
     .row.justify-content-center.align-items-center.mb-5 
-      .jumbotron-14.p-4.mb-3
+      .jumbotron-14.p-3.mb-3
         .row.justify-content-center.align-items-center.mb-3  
           .col-6.col-lg-3
-            img(src='@/assets/curso/images/tema1/img_15_2.png')
+            img(src='@/assets/curso/images/tema1/img_15_2.png').mb-3
           .col-lg-9
-            p.mb-0 Control de malezas: es necesario despejar por completo el terreno para la preparación, tratado y posterior siembra, estas actividades dependen del origen del terreno (rastrojo grueso o mediano, ganadería, cultivos semestrales), por lo cual incluye equipos especiales que permitan realizarla limpieza adecuada, aunque en algunos casos se requiere de ultimación de control químico de malezas, cuya prescripción está dada por personal especializado en el área.
+            p.mb-0 <b>Control de malezas:</b> es necesario despejar por completo el terreno para la preparación, tratado y posterior siembra, estas actividades dependen del origen del terreno (rastrojo grueso o mediano, ganadería, cultivos semestrales), por lo cual incluye equipos especiales que permitan realizarla limpieza adecuada, aunque en algunos casos se requiere de ultimación de control químico de malezas, cuya prescripción está dada por personal especializado en el área.
 
-      .jumbotron-14.p-4.mb-3
+      .jumbotron-14.p-3.mb-3
         .row.justify-content-center.align-items-center.mb-3  
           .col-6.col-lg-3
-            img(src='@/assets/curso/images/tema1/img_16_2.png')
+            img(src='@/assets/curso/images/tema1/img_16_2.png').mb-3
           .col-lg-9
-            p.mb-0 Control de plagas:  es importante identificar las posibles plagas que pueden afectar el cultivo, e identificar las condiciones para su desarrollo y de este modo poder inhibir los escenarios propicios que puedan afectar la plantación. Para contrarrestar este fenómeno se puede utilizar productos químicos o naturales, que estén supervisados por personal idóneo de tal modo que no se afecte el desarrollo adecuado de la plantación.
+            p.mb-0 <b>Control de plagas:</b>  es importante identificar las posibles plagas que pueden afectar el cultivo, e identificar las condiciones para su desarrollo y de este modo poder inhibir los escenarios propicios que puedan afectar la plantación. Para contrarrestar este fenómeno se puede utilizar productos químicos o naturales, que estén supervisados por personal idóneo de tal modo que no se afecte el desarrollo adecuado de la plantación.
 
-      .jumbotron-14.p-4.mb-3
+      .jumbotron-14.p-3.mb-3
         .row.justify-content-center.align-items-center.mb-3  
           .col-6.col-lg-3
-            img(src='@/assets/curso/images/tema1/img_17_2.png')
-          .col-lg-9 
-            p-mb-0 Humedad:  los terrenos son preparados cuando han adquirido cierto grado de humedad que permita el desarrollo de actividades de labranza.
-
-      .jumbotron-14.p-4
-        .row.justify-content-center.align-items-center.mb-3  
-          .col-6.col-lg-3
-            img(src='@/assets/curso/images/tema1/img_18_2.png')
+            img(src='@/assets/curso/images/tema1/img_17_2.png').mb-3
           .col-lg-9
-            p.mb-0 Compactación: este fenómeno restringe el intercambio gaseoso, el drenaje y desarrollo de las raíces, por ende indispensable realizar labores de remoción del suelo que permitan mejorar sus condiciones.
+            p.mb-0 <b>Humedad:</b>  los terrenos son preparados cuando han adquirido cierto grado de humedad que permita el desarrollo de actividades de labranza.
+
+      .jumbotron-14.p-3
+        .row.justify-content-center.align-items-center.mb-3  
+          .col-6.col-lg-3
+            img(src='@/assets/curso/images/tema1/img_18_2.png').mb-3
+          .col-lg-9
+            p.mb-0 <b>Compactación:</b> este fenómeno restringe el intercambio gaseoso, el drenaje y desarrollo de las raíces, por ende indispensable realizar labores de remoción del suelo que permitan mejorar sus condiciones.
   
     
     .row.align-items-center.justify-content-star.mb-5.ps-2(data-aos="zoom-in-down")
-      .col-lg-10.bg-color-1.px-3.py-1
-        .h4.mx-3.mb-0 Zonas de vida
+      .col-lg-10.bg-color-1.px-3.py-2
+        .h3.mx-5.mb-0 Zonas de vida
 
 
-    p.mb-3 Las zonas de vida son regiones biogeográficas que están delimitadas por parámetros climáticos (temperatura y precipitación), las cuales establecen características específicas para el crecimiento y desarrollo de la vegetación, jugando un papel fundamental en la protección del suelo, así como la regulación del caudal de las fuentes hídricas, es por ello que la planificación adecuada del establecimiento de las especies vegetales, es imprescindible para que no solo se genere un desarrollo y/o beneficio para el hombre, sino que también se contribuya al cuidado del entorno.  En la siguiente galería se pueden conocer las diferentes zonas de vida: 
+    p.mb-5 Las zonas de vida son regiones biogeográficas que están delimitadas por parámetros climáticos (temperatura y precipitación), las cuales establecen características específicas para el crecimiento y desarrollo de la vegetación, jugando un papel fundamental en la protección del suelo, así como la regulación del caudal de las fuentes hídricas, es por ello que la planificación adecuada del establecimiento de las especies vegetales, es imprescindible para que no solo se genere un desarrollo y/o beneficio para el hombre, sino que también se contribuya al cuidado del entorno.  En la siguiente galería se pueden conocer las diferentes zonas de vida: 
 
     .row.justify-content-center.align-items-center.my-3
       .col-12.col-lg-12
-        SlyderF.slyder-color.mb-5(columnas="col-lg-6 col-xl-4")(data-aos="zoom-in-down")
-          .row.justify-content-center.align-items-center
-            img.mt-3(src='@/assets/curso/images/tema1/img_slyder_1_1.png')
-          .row.justify-content-center.align-items-center
-            img.mt-3(src='@/assets/curso/images/tema1/img_slyder_2_1.png')
-          .row.justify-content-center.align-items-center
-            img.mt-3(src='@/assets/curso/images/tema1/img_slyder_3_1.png')
-          .row.justify-content-center.align-items-center
-            img.mt-3(src='@/assets/curso/images/tema1/img_slyder_4_1.png') 
-          .row.justify-content-center.align-items-center
-            img.mt-3(src='@/assets/curso/images/tema1/img_slyder_5_1.png')
-          .row.justify-content-center.align-items-center
-            img.mt-3(src='@/assets/curso/images/tema1/img_slyder_6_1.png')
-            
+        SlyderF.slyder-color.mb-5(columnas="col-lg-12 col-xl-12")(data-aos="zoom-in-down")
+          .row.justify-content-center(data-aos="fade-up-right")
+            .col-lg-6.mb-3
+              .crd_hover_txt
+                .crd_hover_txt--img
+                  figure
+                    img(src="@/assets/curso/images/tema1/img_tj1.png")
+                .crd_hover_txt--body.text-center
+                  p.mb-0 <b>Bosque seco tropical</b>
+            .col-lg-6.mb-3
+              .crd_hover_txt
+                .crd_hover_txt--img
+                  figure
+                    img(src="@/assets/curso/images/tema1/img_tj2.png")
+                .crd_hover_txt--body.text-center
+                  p.mb-0 <b>Bosque húmedo tropical</b>
+          .row.justify-content-center
+            .col-lg-6.mb-3
+              .crd_hover_txt
+                .crd_hover_txt--img
+                  figure
+                    img(src="@/assets/curso/images/tema1/img_tj3.png")
+                .crd_hover_txt--body.text-center
+                  p.mb-0 <b>Bosque húmedo premontano</b>
+
+            .col-lg-6.mb-3
+              .crd_hover_txt
+                .crd_hover_txt--img
+                  figure
+                    img(src="@/assets/curso/images/tema1/img_tj1.png")
+                .crd_hover_txt--body.text-center
+                  p.mb-0 <b>Bosque seco montano bajo</b>
+          .row.justify-content-center
+            .col-lg-6.mb-3
+              .crd_hover_txt
+                .crd_hover_txt--img
+                  figure
+                    img(src="@/assets/curso/images/tema1/img_tj2.png")
+                .crd_hover_txt--body.text-center
+                  p.mb-0 <b>Bosque húmedo montano</b>
+            .col-lg-6
+              .crd_hover_txt
+                .crd_hover_txt--img
+                  figure
+                    img(src="@/assets/curso/images/tema1/img_tj3.png")
+                .crd_hover_txt--body.text-center
+                  p.mb-0 <b>Páramo</b>
+
+          
       
     .row.align-items-center.justify-content-star.mb-5.ps-2(data-aos="zoom-in-down")
-      .col-lg-10.bg-color-1.px-3.py-1
-        .h4.mx-3.mb-0 Monitoreo de las condiciones ambientales
+      .col-lg-10.bg-color-1.px-3.py-3
+        .h3.mx-5.mb-0 Monitoreo de las condiciones ambientales
 
     p.mb-3 conocer las condiciones ambientales, permitirá realizar un manejo adecuado del cultivo, ya que permite evitar pérdidas, mejorar las condiciones para la producción agrícola, llevar un calendario de las actividades de producción (siembra, desarrollo, cosecha) optimizar los recursos (aguas, nutrientes, insecticidas, fungicidas, entre otros) realizar un manejo adecuado de plagas y enfermedades y de este modo comprender las limitaciones o condiciones óptimas para el crecimiento y desarrollo de la planta.
 
@@ -307,17 +346,44 @@
         .col-lg-8.lg-0
           p.mt-5 La semilla es una parte de la planta con flores, que habitualmente se encuentra dentro del fruto, en cuyo interior se encuentra el embrión, el cual bajo unas condiciones adecuadas da lugar a una nueva planta. Está formada por tres partes, siendo estas, <b style='color:#0B481E'>el embrión, los tejidos de almacenamiento y las cubiertas protectoras; a su vez la germinación se da por absorción de agua (remojo), la cual causa el hinchamiento de la misma y finalmente se da ruptura de la cubierta protectora,</b> seguido se da el inicio a la actividad enzimática y el metabolismo respiratorio, con la asimilación de las reservas que estimulan el embrión, terminando con el crecimiento, evidenciándose de esta manera que emerge la raíz y posteriormente el tallo. Para que dichas etapas sucedan de una manera exitosa se requiere que en el proceso de germinación se seleccione un buen sustrato y manejen adecuadamente la humedad, el oxígeno y la temperatura.
 
-    p.mb-3 Existe variedad de semillas, las cuales cumplen distintas funciones y usos, a continuación, se presentan como:
- 
-    .h3.text-center  <b style='color:#0B481E'>Tipos de Semillas</b>
-      .row.justify-content-center.align-items-star.p-3(data-aos="fade-right")
-        .col-12.col-lg-10
-          img(src="@/assets/curso/images/tema1/fig_3.png").mb-3
+    p.mb-5 Existe variedad de semillas, las cuales cumplen distintas funciones y usos, a continuación, se presentan como:
 
+    h3.mb-5.text-center #[span.color-text Tipos de Semillas]
+
+    .row.align-items-center.justify-content-center.mb-5(data-aos="fade-down")
+      .col-10.col-lg-3.mb-3
+        .tarjeta.tarjeta-foto-hover
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj1_1.png')
+          .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
+          .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
+            .p-4.text-center
+              p.text-center.mb-0 Nativas: hace referencia a aquellas que tiene su origen en la misma región donde se cultivan.
+      .col-10.col-lg-3.mb-3
+        .tarjeta.tarjeta-foto-hover
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj2_2.png')
+          .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
+          .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
+            .p-4.text-center
+              p.text-center.mb-0 Mejoradas: son aquellas semillas que han pasado por procesos y técnicas  (polinización controlada), con el fin de perfeccionar determinadas características (resistencia a enfermedades y plagas, alta productividad, precocidad, fácil adaptación a otras regiones).
+
+      .col-10.col-lg-3.mb-3
+        .tarjeta.tarjeta-foto-hover
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj3_3.png')
+          .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
+          .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
+            .p-4.text-center
+              p.text-center.mb-0 Hibridas: semillas que resultan de cruzar dos variedades puras distintas; las encontramos hibridas de crecimiento determinado (su tallo delimita la formación de nudos y altura de planta), e hibridas de crecimiento libre (la producción de nudos continua por encima del tallo y la altura aumenta).
+      .col-10.col-lg-3.mb-3
+        .tarjeta.tarjeta-foto-hover
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj4_4.png')
+          .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
+          .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
+            .p-4.text-center
+              p.text-center.mb-0 Criollas: son aquellas que han logrado adaptarse a unas determinadas condiciones del entorno, de modo natural o por intervención antrópica.
 
     .row.align-items-center.justify-content-star.mb-5.ps-2(data-aos="zoom-in-down")
-      .col-lg-10.bg-color-1.px-3.py-1
-        .h4.mx-3.mb-0 Tratamientos de la semilla antes de la siembra
+      .col-lg-10.bg-color-1.px-3.py-2
+        .h3.mx-5.mb-0 Tratamientos de la semilla antes de la siembra
 
 
     .row.align-items-center.justify-content-center.mb-5
@@ -325,7 +391,7 @@
         p.mb-3 Para obtener los beneficios que acarrea el establecimiento de coberturas vegetales, se debe garantizar una germinación rápida y uniforme de las semillas, pues en algunos casos la semillas de especies arbóreas germinan rápidamente cuando se someten a ciertas condiciones de humedad y temperatura, sin embargo, las semillas de otras especies presentan cierto grado de latencia, razón por la cual deben ser sometidas a algún tratamiento previo a la siembra con el fin de lograr una buena germinación. 
 
         p.mb-3 Existen algunos tratamientos que se realizan a la semilla con fin de proveer una sanidad óptima para evitar que virus, plagas o enfermedades puedan afectar su germinación y a su vez la productividad, de modo tal que no genere retrasos u otro impacto en el cultivo. Por lo cual encontramos:
-      .col-7.col-lg-5(data-aos="fade-left")
+      .col-12.col-lg-5(data-aos="fade-left")
         img(src='@/assets/curso/images/tema1/img_19.png'  alt='')
 
 
@@ -334,16 +400,17 @@
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="zoom-in-down")
           .row.justify-content-center.align-items-center.mb-5(titulo="Desinfección")
             p.mb-3 Es el proceso que se realiza a la semilla antes de sembrarla, con el fin de evitar que sea afectada por insectos del suelo antes de que ocurra la germinación, o para que no desarrollen enfermedades, una vez se haya generado el proceso de germinación de la plántula. Este proceso puede realizarse mediante la utilización de productos fitosanitarios de origen químico como fungicidas o insecticidas, o utilizando desinfectantes ecológicos.
-            .col-5.col-md-6.col-lg-4.mb-5.mb-lg-0
-              img(src='@/assets/curso/images/tema1/img_20.png')
-              .jumbotron-6.p-2
-                p.mt-3 <b>Químicos:</b> Productos químicos utilizados para la desinfección de la semilla como:  carboxina, mancozeb, maneb, metalaxil, malation, tiram tabendazol, entre otros.
-            .col-5.col-md-6.col-lg-4.mb-5.mb-lg-0 
-              img.mt-4(src='@/assets/curso/images/tema1/img_21.png')
-              .jumbotron-6.p-2
-                p.mt-3 Ecológicos: Métodos naturales para controlar las plagas. Ortiga (decocción durante 10 minutos de 2 litros de agua con un puñado de ortiga).Ajo (decocción durante 10 minutos de 4 cabezas de ajo por un litro de agua).
-          
-            .col-lg-12
+            .row.justify-content-center.align-items-center.mb-5
+              .col-12.col-md-6.col-lg-4.mb-5.mb-lg-0
+                img.mt-4(src='@/assets/curso/images/tema1/img_20.png')
+                .jumbotron-6.p-2
+                  p.my-4 <b>Químicos:</b> Productos químicos utilizados para la desinfección de la semilla como:  carboxina, mancozeb, maneb, metalaxil, malation, tiram tabendazol, entre otros.
+              .col-12.col-md-6.col-lg-4.mb-5.mb-lg-0 
+                img.mt-4(src='@/assets/curso/images/tema1/img_21.png')
+                .jumbotron-6.p-2
+                  p.mt-2 Ecológicos: Métodos naturales para controlar las plagas. Ortiga (decocción durante 10 minutos de 2 litros de agua con un puñado de ortiga).Ajo (decocción durante 10 minutos de 4 cabezas de ajo por un litro de agua).
+            
+              .col-lg-10
               .row.justify-content-center.align-items-star.my-3
                 .jumbotron-7.p-3(data-aos="fade-left") 
                   .row.justify-content-around.align-items-center
@@ -354,38 +421,39 @@
 
           .row.justify-content-center.align-items-center.mb-5(titulo="Escarificación")
               p.mb-3 Es el proceso de desgaste de la cubierta de la semilla con el fin de permitir el paso del agua y oxígeno necesarios para iniciar la germinación. Esta se puede dar de manera:
-              .col-sm-6.col-lg-4.mb-4.mb-xl-0
+              .col-sm-6.col-lg-3.mb-4.mb-xl-0
                 .jumbotron-8
-                  .p-4
-                    h4.text-white.m-top-1 Manual:
-                    p.mb-0 Involucra frotar la semilla manualmente sobre una superficie abrasiva, quemar la cubierta, perforar los bordes de la cubierta y colocar en remojo con agua tibia (60°C), hasta que se permita el ingreso de agua y oxígeno al interior.
+                  .row.justify-content-center.align-items-center.p-3
+                      h4.text-white.m-top-1 Manual:
+                      p.mb-0 Involucra frotar la semilla manualmente sobre una superficie abrasiva, quemar la cubierta, perforar los bordes de la cubierta y colocar en remojo con agua tibia (60°C), hasta que se permita el ingreso de agua y oxígeno al interior.
               
-              .col-sm-6.col-lg-4.mb-4.mb-xl-0
+              .col-sm-6.col-lg-3.mb-4.mb-xl-0
                 .jumbotron-8
-                  .p-4
-                    h4.text-white.m-top-3  Mecánica:
+                  .row.justify-content-center.align-items-center.p-3
+                    h4.text-white.m-top-1  Mecánica:
                     p.mt-4 Requiere de equipos o herramientas para realizar el proceso (abrasión con material, abrasión contra superficies, por percusión).
               
-              .col-sm-6.col-lg-4.mb-4.mb-xl-0
+              .col-sm-6.col-lg-3.mb-4.mb-xl-0
                 .jumbotron-8
-                  .p-4
+                  .row.justify-content-center.align-items-center.p-3
                     h4.text-white.m-top-1 Química:
                     p.mb--0 Se remoja la semilla en hipoclorito de sodio al 5% por 20, 30 o 60 minutos, posteriormente se lava con agua limpia hasta que desaparezca todo el hipoclorito y se verifica el nivel de reblandeo de la semilla.
 
           .row.justify-content-center.align-items-center(titulo="Estratificación")
-            p.mb-3 Es un tratamiento pregerminativo para semillas en letargo, en el cual las semillas embebidas de agua son sometidas a un periodo de enfriamiento para que se efectuara la post maduración del embrión y así eliminar esta latencia. la estratificación se puede hacer en:
-            img(src='@/assets/curso/images/tema1/fig_4.svg'  alt='')
+            .col-lg-10
+              p.mb-3 Es un tratamiento pregerminativo para semillas en letargo, en el cual las semillas embebidas de agua son sometidas a un periodo de enfriamiento para que se efectuara la post maduración del embrión y así eliminar esta latencia. la estratificación se puede hacer en:
+              img(src='@/assets/curso/images/tema1/fig_4.svg'  alt='')
             
           .row.justify-content-center.align-items-star(titulo="Inoculación")
             .col-12.col-lg-6
               p.mb-3 Es una técnica que consiste en adherir de manera efectiva de bacterias fijadoras de nitrógeno (<i>Rhizobium o Bradyrhizobium</i>) en la superficie de la semilla de leguminosas previo a la siembra, de esta manera las bacterias se fijan en las raíces cuando la semilla germina, formándose los nódulos, estructuras en donde se posicionan las bacterias fijadoras de nitrógeno haciéndolo aprovechable para la planta.
-            .col-8.col-lg-6
+            .col-8.col-lg-5
               img(src="@/assets/curso/images/tema1/img_22.png").mb-3
 
           .row.justify-content-center.align-items-star(titulo="Fitomejoramiento")
             .col-12.col-lg-6
               p.mb-3 Con el fin de realizar actividades de mejoramiento de las especies vegetales, es una práctica que permite aumentar la productividad, calidad, resistencia a patógenos, eficiencia nutricional y algunas propiedades del cultivo. Mediante el mejoramiento genético: se pueden obtener variedades más productivas, resistentes a variables climáticas y con mayor eficiencia en los procesos productivos.  
-            .col-8.col-lg-6
+            .col-8.col-lg-5
               img(src="@/assets/curso/images/tema1/img_23.png").mb-3
 
 
@@ -402,7 +470,7 @@
 
         p.mb-3 Para lograr un óptimo proceso de siembra es necesario tener en cuenta el tamaño de la semilla, para poder establecer la profundidad en que se debe hacer la siembra, además de las necesidades de espacio, agua, nutrientes, aire y distanciamiento.
   
-      .col-7.col-lg-5(data-aos="fade-left")
+      .col-12.col-lg-5(data-aos="fade-left")
         img(src='@/assets/curso/images/tema1/img_24.png'  alt='')
 
     p.mb-3 La preparación del terreno para la siembra depende de la profundidad, distancia, época, tipo de siembra (directa o indirecta), humedad, aireación densidad poblacional, con el fin de que la semilla logre germinar y emerger, por lo tanto, es importante tener en cuenta:
@@ -416,21 +484,21 @@
                 h4 Profundidad
                 p.mb-3 Es la distancia a la cual va a ser enterrada la semilla, está condicionada al tipo de siembra, humedad del suelo, tipo de semilla, y tiempo en que se va a realizar la siembra. Ej. Suelo húmedo (siembra no tan profunda) suelo ligero (siembra profunda) y suelo pesado (siembra superficial).
              
-              .col-8.col-lg-6
+              .col-10.col-lg-6
                 img(src="@/assets/curso/images/tema1/img_25.png").mb-3
            
             .row.justify-content-center.align-items-star.p-3
               .col-12.col-lg-4
                 h4 Época de siembra
                 p.mb-5 Juega un papel importante, ya que la climatología establece parámetros claves para la germinación según el tipo de semilla, por lo cual se pueden implementar soluciones antes de la siembra como escarificación, estratificación u otro procedimiento que optimice el proceso productivo, además de establecimiento del sistema de riego, fertilización, entre otros.
-              .col-8.col-lg-6
+              .col-10.col-lg-6
                 img(src="@/assets/curso/images/tema1/img_26.png").mb-3
            
             .row.justify-content-center.align-items-star.p-3
               .col-12.col-lg-4
                 h4 Tipo de siembra
                 p.mb-3 Dependen de los equipos, herramientas y demás con que se cuente para el proceso, pues esta puede ser manual (se coloca la semilla con la mano en el suelo o sustrato) o mecánica (se utiliza maquinaria mecánica para el desarrollo de la actividad de siembra) además puede ser directa en el suelo o indirecta en semilleros y luego realizar el trasplante al campo.
-              .col-8.col-lg-6
+              .col-10.col-lg-6
                 img(src="@/assets/curso/images/tema1/img_27.png").mb-3
            
             .row.justify-content-center.align-items-star.p-3
@@ -451,16 +519,16 @@
                     i.fas.fa-circle.th-4
                     | Área del terreno para siembra: 1 Ha
 
-              .col-8.col-lg-6
+              .col-10.col-lg-6
                 img(src="@/assets/curso/images/tema1/img_28.svg").mb-3
 
     p.mb-5  Los arreglos topológicos en la siembra se definen como la distribución de las plantas en la superficie sembrada, cantidad y disposición de estas en un terreno. Por lo cual en agricultura se utilizan dichas técnicas con el fin de establecer la distribución de las plantas en un área determinada, considerando la distancia entre las plantas y el ancho de los surcos, dando un orden a la siembra. Estos pueden ser: 
 
-    TabsB.color-acento-contenido.mb-5(data-aos="fade-right")
+    TabsB.color-acento-contenido.mb-5.color_img-tab(data-aos="fade-right")
       .py-4.py-md-5(titulo="Al voleo" :icono="require('@/assets/curso/images/tema1/ico_10.svg')")
         .row.justify-content-center.align-items-star
           .col-md-6.mb-4.mb-md-0
-            h3 Al voleo
+            h4 Al voleo
             p.mb-3 las semillas son distribuidas y colocadas en forma dispersa, no alineada, por ejemplo, cilantro y algunos pastos.
 
             p.mb-3 Cuando se realiza siembra al voleo manual, quien va a realizar la siembra, lleva las semillas debidamente almacenadas y las distribuye con la mano en todo el terreno de manera uniforme, quedando en la superficie del suelo, razón por la cual deben ser incorporadas mediante una herramienta (rastrillo), dejando una capa fina de suelo de 0.5 cm a 1.5 cm, dependiendo esto del tamaño de la semilla.
@@ -474,7 +542,7 @@
       .py-4.py-md-5(titulo="En surcos" :icono="require('@/assets/curso/images/tema1/ico_11_1.svg')")
         .row.justify-content-center.align-items-star
           .col-md-6.mb-4.mb-md-0
-            h3 En surcos
+            h4 En surcos
             p.mb-0 esta técnica depende del tamaño de la semilla, la cual consiste en distribuir las semillas en hileras, y a una distancia de dos o tres centímetros de separación. Ej. Sorgo, frijol, entre otros. 
         
           .col-md-4
@@ -492,66 +560,66 @@
       .tarjeta.color-acento-contenido.p-3(x="30%" y="70%" numero="")
         .h5.mb-3 Camellón del surco
           .row.justify-content-center.align-items-center
-            .col-3.col-lg-3
+            .col-4.col-lg-3
               img(src='@/assets/curso/images/tema1/ico_12.svg')
             .col-md-9.mb-4.mb-md-0
-              p.mb-0 <b>En el camellón del surco:</b> las semillas son colocadas en el camellón del surco debido a las características propias del cultivo y para tener un buen manejo de las labores culturales (ejemplo: frijol, melón).
+              p.mb-0 Las semillas son colocadas en el camellón del surco debido a las características propias del cultivo y para tener un buen manejo de las labores culturales (ejemplo: frijol, melón).
 
       .tarjeta.color-acento-contenido.p-3(x="50%" y="80%" numero="")
         .h5.mb-3 Al fondo del surco
           .row.justify-content-center.align-items-center
-            .col-3.col-lg-3
+            .col-4.col-lg-3
               img(src='@/assets/curso/images/tema1/ico_12.svg')
             .col-md-9.mb-4.mb-md-0
-              p.mb-0 <b>Al fondo del surco:</b>la semilla se deposita al fondo del surco con el fin de lograr un mayor aprovechamiento del agua de lluvia, o bien, para facilitar el riego después de la siembra (ejemplo: maíz, ajonjolí).
+              p.mb-0 La semilla se deposita al fondo del surco con el fin de lograr un mayor aprovechamiento del agua de lluvia, o bien, para facilitar el riego después de la siembra (ejemplo: maíz, ajonjolí).
 
       .tarjeta.color-acento-contenido.p-3(x="70%" y="70%" numero="")
         .h5.mb-3 El talud del surco
           .row.justify-content-center.align-items-center
-            .col-3.col-lg-3
+            .col-4.col-lg-3
               img(src='@/assets/curso/images/tema1/ico_12.svg')
             .col-md-9.mb-4.mb-md-0
-              p.mb-0 <b>El talud del surco:</b> las semillas se siembran en el talud porque el cultivo así lo exige, debido a algunas características ambientales o la susceptibilidad del cultivo con la humedad del suelo (ejemplo: tomate).
+              p.mb-0  Las semillas se siembran en el talud porque el cultivo así lo exige, debido a algunas características ambientales o la susceptibilidad del cultivo con la humedad del suelo (ejemplo: tomate).
 
 
 
     .row.align-items-center.justify-content-star.mb-5.ps-2(data-aos="zoom-in-down")
-      .col-lg-10.bg-color-1.px-3.py-1
-        .h4.mx-3.mb-0 Diseño de arreglos productivos
+      .col-lg-10.bg-color-1.px-3.py-2
+        .h3.mx-5.mb-0 Diseño de arreglos productivos
 
     p.mb-5 Los sistemas de producción agrícola cambian según las necesidades y condiciones de producción, por ejemplo, el clima, el suelo, la tenencia de la tierra, los niveles de formación, la tecnología disponible, los mercados, entre otros, por lo cual encontramos algunas estrategias que permiten mantener o mejorar los procesos productivos, como:
 
-    .row.align-items-center.justify-content-center.mb-5(data-aos="fade-down")
-      .col-7.col-lg-3.mb-3
-        .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj_1.png')
+    .row.align-items-center.justify-content-center.mb-5
+      .col-10.col-lg-3.mb-3
+        .tarjeta.tarjeta-foto-hover.borde
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj_1_1.png')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
               h4.text-center.mb-3 Sistemas agroforestales
               p.text-center.mb-0 Los cuales combinan la siembra de cultivos y árboles forestales secuencialmente.
 
-      .col-7.col-lg-3.mb-3
-        .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj_2.png')
+      .col-10.col-lg-3.mb-3
+        .tarjeta.tarjeta-foto-hover.borde
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj_2_2.png')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
               h4.text-center.mb-3 Sistemas silvopastoriles
               p.text-center.mb-0 Los cuales combinan especies forestales o frutales y animales, sin la presencia de cultivos.
 
-      .col-7.col-lg-3.mb-3
-        .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj_3.png')
+      .col-10.col-lg-3.mb-3
+        .tarjeta.tarjeta-foto-hover.borde
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj_3_3.png')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
               h4.text-center.mb-3 Rotación de cultivos
               p.text-center.mb-0 Busca alternar cultivos en un mismo suelo, con el fin de preservar los nutrientes disponibles en el suelo.
 
-      .col-7.col-lg-3.mb-3
-        .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj_4.png')
+      .col-10.col-lg-3.mb-3
+        .tarjeta.tarjeta-foto-hover.borde
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj_4_4.png')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
