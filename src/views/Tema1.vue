@@ -72,47 +72,47 @@
             .row.justify-content-center.align-items-star.p-3
               .col-12.col-lg-10
                 p.mb-3 Un plano de diseño de siembra establece y delimita los lotes en los cuales se realizará la plantación, lo cual se conoce como nomenclatura de lotes, la cual incluye:
-                .row.justify-content-center.align-items-stretch.mb-0
+                .row.justify-content-center.mb-0
                   .col-8.col-lg-3.mb-3(data-aos="fade-right")
-                    .jumbotron-1.p-2.mb-1
+                    .jumbotron-1.p-2.mb-1.h-100
                       .row.justify-content-center.align-items-center
                         .col-5.col-lg-4.lg-0
                           img.mt-3(src='@/assets/curso/images/tema1/ico_4.svg' alt='AvatarTop')
                         .col-6.col-lg-8.lg-0
-                          p.mt-5 Año de siembra.
+                          p.mb-0 Año de siembra.
 
                   .col-8.col-lg-3.mb-3(data-aos="fade-right")
-                    .jumbotron-1.p-2.mb-1
+                    .jumbotron-1.p-2.mb-1.h-100
                       .row.justify-content-center.align-items-center
                         .col-5.col-lg-4.lg-0
                           img(src='@/assets/curso/images/tema1/ico_5.svg' alt='AvatarTop')
                         .col-6.col-lg-8.lg-0
-                          p.mt-4  Tipo de material genético.
+                          p.mb-0  Tipo de material genético.
 
                   .col-8.col-lg-3.mb-3(data-aos="fade-right")
-                    .jumbotron-1.p-2.mb-1
+                    .jumbotron-1.p-2.mb-1.h-100
                       .row.justify-content-center.align-items-center
                         .col-5.col-lg-4.lg-0
                           img(src='@/assets/curso/images/tema1/ico_6.svg' alt='AvatarTop')
                         .col-6.col-lg-8.lg-0
-                          p.mt-4 Área del lote en hectáreas.
+                          p.mb-0 Área del lote en hectáreas.
 
-                .row.justify-content-center.align-items-stretch.mb-4
+                .row.justify-content-center.mb-4
                   .col-8.col-lg-3.mb-3(data-aos="fade-right")
-                    .jumbotron-1.p-4.mb-1
+                    .jumbotron-1.p-2.mb-1.h-100
                       .row.justify-content-center.align-items-center
                         .col-5.col-lg-4.lg-0
                           img(src='@/assets/curso/images/tema1/ico_7.svg' alt='AvatarTop')
                         .col-6.col-lg-8.lg-0
                           p.mb-0  Número de especies sembradas.
 
-                  .col-8.col-lg-3(data-aos="fade-right")
-                    .jumbotron-1.p-2.mb-1
+                  .col-8.col-lg-3.mb-3(data-aos="fade-right")
+                    .jumbotron-1.p-2.mb-1.h-100
                       .row.justify-content-center.align-items-center
                         .col-5.col-lg-4.lg-0
                           img(src='@/assets/curso/images/tema1/ico_8.svg' alt='AvatarTop')
-                        .col-6.col-lg-8.lg-0
-                          p.mt-4 Fecha de siembra.
+                        .col-6.col-lg-8
+                          p.mb-0 Fecha de siembra.
             .row.justify-content-center.align-items-star.p-3
               .col-12.col-lg-12
                 h4.mb-3 Características del suelo
@@ -192,7 +192,7 @@
                   p.my-3 <b style='color:#0B481E'>Físicas</b>   
                   .row.justify-content-center.align-items-stretch.mb-3
                     .col-lg-6.lg-0
-                      .jumbotron-3.p-3.mb-3(data-aos="fade-right")
+                      .jumbotron-3.p-3.mb-3.h-100(data-aos="fade-right")
                         .row.justify-content-center.align-items-star
                           .col-8.col-lg-3.lg-0
                             img(src='@/assets/curso/images/tema1/img_11.png' alt='AvatarTop').mb-3
@@ -200,31 +200,31 @@
                             p.mb-2 <b style='color:#0B481E'>ACIDEZ</b>  
                             p.mb-0 Para determinar la acidez de un suelo se expresa en pH, siendo 0 a 6.5 ácido, 7 neutro y 7.5 a 14 alcalino, y cuando se debe corregir se aplican enmiendas capaces de neutralizar.
                     .col-lg-6.lg-0
-                      .jumbotron-4.p-3.mb-3(data-aos="fade-right")
+                      .jumbotron-4.p-3.mb-3.h-100(data-aos="fade-right")
                         .row.justify-content-center.align-items-star
                           .col-8.col-lg-3.lg-0
                             img(src='@/assets/curso/images/tema1/img_12.png' alt='AvatarTop').mb-3
                           .col-10.col-lg-9.lg-0
                             p.mb-3 <b style='color:#0B481E'>FERTILIDAD</b>  
                             p.mb-5 Hace referencia a la cantidad y calidad de los elementos de tipo nutricional para la planta.
-                      
-                  p.mb-3 <b style='color:#0B481E'> Biológicas</b>  
-                  .row.justify-content-center.align-items-stretch.mb-4
-                    .col-lg-6.lg-0
-                      .jumbotron-3.p-3.mb-3(data-aos="fade-right")
-                        .row.justify-content-center.align-items-star
-                          .col-8.col-lg-3.lg-0
-                            img(src='@/assets/curso/images/tema1/img_13.png' alt='AvatarTop').mb-3
-                          .col-10.col-lg-9.lg-0
-                            p.mb-0 El suelo presenta un componente orgánico, el cual se conforma de organismos y microorganismos vivos, muertos y en estado de descomposición.
-                    .col-lg-6.lg-0
-                      .jumbotron-4.p-3.mb-3(data-aos="fade-right")
-                        .row.justify-content-center.align-items-star
-                          .col-8.col-lg-3.lg-0
-                            img(src='@/assets/curso/images/tema1/img_14.png' alt='AvatarTop').mb-3
-                          .col-10.col-lg-9.lg-0
-                            p.mb-5 Genética del material de siembra.
-            
+                  .row.justify-content-center.align-items-stretch.mb-3   
+                    p.mb-3 <b style='color:#0B481E'> Biológicas</b>  
+                    .row.justify-content-center.mb-4
+                      .col-lg-6.lg-0
+                        .jumbotron-3.p-3.mb-3.h-100(data-aos="fade-right")
+                          .row.justify-content-center.align-items-star
+                            .col-8.col-lg-3.lg-0
+                              img(src='@/assets/curso/images/tema1/img_13.png' alt='AvatarTop').mb-3
+                            .col-10.col-lg-9.lg-0
+                              p.mb-0 El suelo presenta un componente orgánico, el cual se conforma de organismos y microorganismos vivos, muertos y en estado de descomposición.
+                      .col-lg-6.lg-0
+                        .jumbotron-4.p-3.mb-3.h-100(data-aos="fade-right")
+                          .row.justify-content-center.align-items-star
+                            .col-8.col-lg-3.lg-0
+                              img(src='@/assets/curso/images/tema1/img_14.png' alt='AvatarTop').mb-3
+                            .col-10.col-lg-9.lg-0
+                              p.mb-5 Genética del material de siembra.
+              
     Separador
 
     #t_1_1.titulo-segundo
@@ -239,31 +239,31 @@
     p.mb-3 Requiere de algunas actividades de labranza que involucra:
 
     .row.justify-content-center.align-items-center.mb-5 
-      .jumbotron-14.p-3.mb-3
+      .jumbotron-14.px-3.mb-3
         .row.justify-content-center.align-items-center.mb-3  
-          .col-6.col-lg-3
-            img(src='@/assets/curso/images/tema1/img_15_2.png').mb-3
+          .col-12.col-lg-3
+            img.mt-3(src='@/assets/curso/images/tema1/img_15_2.png').mb-1
           .col-lg-9
             p.mb-0 <b>Control de malezas:</b> es necesario despejar por completo el terreno para la preparación, tratado y posterior siembra, estas actividades dependen del origen del terreno (rastrojo grueso o mediano, ganadería, cultivos semestrales), por lo cual incluye equipos especiales que permitan realizarla limpieza adecuada, aunque en algunos casos se requiere de ultimación de control químico de malezas, cuya prescripción está dada por personal especializado en el área.
 
-      .jumbotron-14.p-3.mb-3
+      .jumbotron-14.px-3.mb-3
         .row.justify-content-center.align-items-center.mb-3  
-          .col-6.col-lg-3
-            img(src='@/assets/curso/images/tema1/img_16_2.png').mb-3
+          .col-12.col-lg-3
+            img.mt-3(src='@/assets/curso/images/tema1/img_16_2.png').mb-1
           .col-lg-9
             p.mb-0 <b>Control de plagas:</b>  es importante identificar las posibles plagas que pueden afectar el cultivo, e identificar las condiciones para su desarrollo y de este modo poder inhibir los escenarios propicios que puedan afectar la plantación. Para contrarrestar este fenómeno se puede utilizar productos químicos o naturales, que estén supervisados por personal idóneo de tal modo que no se afecte el desarrollo adecuado de la plantación.
 
-      .jumbotron-14.p-3.mb-3
+      .jumbotron-14.px-3.mb-3
         .row.justify-content-center.align-items-center.mb-3  
-          .col-6.col-lg-3
-            img(src='@/assets/curso/images/tema1/img_17_2.png').mb-3
+          .col-12.col-lg-3
+            img.mt-3(src='@/assets/curso/images/tema1/img_17_2.png').mb-1
           .col-lg-9
             p.mb-0 <b>Humedad:</b>  los terrenos son preparados cuando han adquirido cierto grado de humedad que permita el desarrollo de actividades de labranza.
 
-      .jumbotron-14.p-3
+      .jumbotron-14.px-3.mb-3
         .row.justify-content-center.align-items-center.mb-3  
-          .col-6.col-lg-3
-            img(src='@/assets/curso/images/tema1/img_18_2.png').mb-3
+          .col-12.col-lg-3
+            img.mt-3(src='@/assets/curso/images/tema1/img_18_2.png').mb-1
           .col-lg-9
             p.mb-0 <b>Compactación:</b> este fenómeno restringe el intercambio gaseoso, el drenaje y desarrollo de las raíces, por ende indispensable realizar labores de remoción del suelo que permitan mejorar sus condiciones.
   
@@ -285,14 +285,14 @@
                   figure
                     img(src="@/assets/curso/images/tema1/img_tj1.png")
                 .crd_hover_txt--body.text-center
-                  p.mb-0 <b>Bosque seco tropical</b>
+                  h3.mb-0 <b>Bosque seco tropical</b>
             .col-lg-6.mb-3
               .crd_hover_txt
                 .crd_hover_txt--img
                   figure
                     img(src="@/assets/curso/images/tema1/img_tj2.png")
                 .crd_hover_txt--body.text-center
-                  p.mb-0 <b>Bosque húmedo tropical</b>
+                  h3.mb-0 <b>Bosque húmedo tropical</b>
           .row.justify-content-center
             .col-lg-6.mb-3
               .crd_hover_txt
@@ -300,7 +300,7 @@
                   figure
                     img(src="@/assets/curso/images/tema1/img_tj3.png")
                 .crd_hover_txt--body.text-center
-                  p.mb-0 <b>Bosque húmedo premontano</b>
+                  h3.mb-0 <b>Bosque húmedo premontano</b>
 
             .col-lg-6.mb-3
               .crd_hover_txt
@@ -308,7 +308,7 @@
                   figure
                     img(src="@/assets/curso/images/tema1/img_tj1.png")
                 .crd_hover_txt--body.text-center
-                  p.mb-0 <b>Bosque seco montano bajo</b>
+                  h3.mb-0 <b>Bosque seco montano bajo</b>
           .row.justify-content-center
             .col-lg-6.mb-3
               .crd_hover_txt
@@ -316,14 +316,14 @@
                   figure
                     img(src="@/assets/curso/images/tema1/img_tj2.png")
                 .crd_hover_txt--body.text-center
-                  p.mb-0 <b>Bosque húmedo montano</b>
+                  h3.mb-0 <b>Bosque húmedo montano</b>
             .col-lg-6
               .crd_hover_txt
                 .crd_hover_txt--img
                   figure
                     img(src="@/assets/curso/images/tema1/img_tj3.png")
                 .crd_hover_txt--body.text-center
-                  p.mb-0 <b>Páramo</b>
+                  h3.mb-0 <b>Páramo</b>
 
           
       
@@ -357,14 +357,14 @@
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
-              p.text-center.mb-0 Nativas: hace referencia a aquellas que tiene su origen en la misma región donde se cultivan.
+              p.text-center.mb-0 <b>Nativas:</b> hace referencia a aquellas que tiene su origen en la misma región donde se cultivan.
       .col-10.col-lg-3.mb-3
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj2_2.png')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
-              p.text-center.mb-0 Mejoradas: son aquellas semillas que han pasado por procesos y técnicas  (polinización controlada), con el fin de perfeccionar determinadas características (resistencia a enfermedades y plagas, alta productividad, precocidad, fácil adaptación a otras regiones).
+              p.text-center.mb-0 <b>Mejoradas:</b> son aquellas semillas que han pasado por procesos y técnicas  (polinización controlada), con el fin de perfeccionar determinadas características (resistencia a enfermedades y plagas, alta productividad, precocidad, fácil adaptación a otras regiones).
 
       .col-10.col-lg-3.mb-3
         .tarjeta.tarjeta-foto-hover
@@ -372,14 +372,14 @@
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
-              p.text-center.mb-0 Hibridas: semillas que resultan de cruzar dos variedades puras distintas; las encontramos hibridas de crecimiento determinado (su tallo delimita la formación de nudos y altura de planta), e hibridas de crecimiento libre (la producción de nudos continua por encima del tallo y la altura aumenta).
+              p.text-center.mb-0 <b>Hibridas:</b> semillas que resultan de cruzar dos variedades puras distintas; las encontramos hibridas de crecimiento determinado (su tallo delimita la formación de nudos y altura de planta), e hibridas de crecimiento libre (la producción de nudos continua por encima del tallo y la altura aumenta).
       .col-10.col-lg-3.mb-3
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj4_4.png')
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
-              p.text-center.mb-0 Criollas: son aquellas que han logrado adaptarse a unas determinadas condiciones del entorno, de modo natural o por intervención antrópica.
+              p.text-center.mb-0 <b>Criollas:</b> son aquellas que han logrado adaptarse a unas determinadas condiciones del entorno, de modo natural o por intervención antrópica.
 
     .row.align-items-center.justify-content-star.mb-5.ps-2(data-aos="zoom-in-down")
       .col-lg-10.bg-color-1.px-3.py-2
@@ -399,18 +399,19 @@
       .col-lg-12(data-aos="fade-right") 
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="zoom-in-down")
           .row.justify-content-center.align-items-center.mb-5(titulo="Desinfección")
-            p.mb-3 Es el proceso que se realiza a la semilla antes de sembrarla, con el fin de evitar que sea afectada por insectos del suelo antes de que ocurra la germinación, o para que no desarrollen enfermedades, una vez se haya generado el proceso de germinación de la plántula. Este proceso puede realizarse mediante la utilización de productos fitosanitarios de origen químico como fungicidas o insecticidas, o utilizando desinfectantes ecológicos.
-            .row.justify-content-center.align-items-center.mb-5
-              .col-12.col-md-6.col-lg-4.mb-5.mb-lg-0
-                img.mt-4(src='@/assets/curso/images/tema1/img_20.png')
-                .jumbotron-6.p-2
-                  p.my-4 <b>Químicos:</b> Productos químicos utilizados para la desinfección de la semilla como:  carboxina, mancozeb, maneb, metalaxil, malation, tiram tabendazol, entre otros.
-              .col-12.col-md-6.col-lg-4.mb-5.mb-lg-0 
-                img.mt-4(src='@/assets/curso/images/tema1/img_21.png')
-                .jumbotron-6.p-2
-                  p.mt-2 Ecológicos: Métodos naturales para controlar las plagas. Ortiga (decocción durante 10 minutos de 2 litros de agua con un puñado de ortiga).Ajo (decocción durante 10 minutos de 4 cabezas de ajo por un litro de agua).
+            .col-lg-11
+              p.mb-3 Es el proceso que se realiza a la semilla antes de sembrarla, con el fin de evitar que sea afectada por insectos del suelo antes de que ocurra la germinación, o para que no desarrollen enfermedades, una vez se haya generado el proceso de germinación de la plántula. Este proceso puede realizarse mediante la utilización de productos fitosanitarios de origen químico como fungicidas o insecticidas, o utilizando desinfectantes ecológicos.
+              .row.justify-content-center.align-items-center.mb-5
+                .col-12.col-md-6.col-lg-4.mb-5.mb-lg-0
+                  img.mt-4(src='@/assets/curso/images/tema1/img_20.png')
+                  .jumbotron-6.p-2
+                    p.my-4 <b>Químicos:</b> Productos químicos utilizados para la desinfección de la semilla como:  carboxina, mancozeb, maneb, metalaxil, malation, tiram tabendazol, entre otros.
+                .col-12.col-md-6.col-lg-4.mb-5.mb-lg-0 
+                  img.mt-4(src='@/assets/curso/images/tema1/img_21.png')
+                  .jumbotron-6.p-2
+                    p.mt-2 Ecológicos: Métodos naturales para controlar las plagas. Ortiga (decocción durante 10 minutos de 2 litros de agua con un puñado de ortiga).Ajo (decocción durante 10 minutos de 4 cabezas de ajo por un litro de agua).
             
-              .col-lg-10
+            .col-lg-11
               .row.justify-content-center.align-items-star.my-3
                 .jumbotron-7.p-3(data-aos="fade-left") 
                   .row.justify-content-around.align-items-center
@@ -419,28 +420,28 @@
                     .col-lg-10
                       p.mb-0 Es importante que cuando se realice el proceso de desinfección, esté guiado por un experto en el área, con el fin de aplicar la dosis necesaria del desinfectante de tal modo que no se generen efectos adversos para la salud.
 
-          .row.justify-content-center.align-items-center.mb-5(titulo="Escarificación")
+          .row.justify-content-center.mb-3.p-4(titulo="Escarificación")
               p.mb-3 Es el proceso de desgaste de la cubierta de la semilla con el fin de permitir el paso del agua y oxígeno necesarios para iniciar la germinación. Esta se puede dar de manera:
               .col-sm-6.col-lg-3.mb-4.mb-xl-0
-                .jumbotron-8
+                .jumbotron-8.h-100
                   .row.justify-content-center.align-items-center.p-3
                       h4.text-white.m-top-1 Manual:
                       p.mb-0 Involucra frotar la semilla manualmente sobre una superficie abrasiva, quemar la cubierta, perforar los bordes de la cubierta y colocar en remojo con agua tibia (60°C), hasta que se permita el ingreso de agua y oxígeno al interior.
               
               .col-sm-6.col-lg-3.mb-4.mb-xl-0
-                .jumbotron-8
+                .jumbotron-8.h-100
                   .row.justify-content-center.align-items-center.p-3
                     h4.text-white.m-top-1  Mecánica:
                     p.mt-4 Requiere de equipos o herramientas para realizar el proceso (abrasión con material, abrasión contra superficies, por percusión).
               
               .col-sm-6.col-lg-3.mb-4.mb-xl-0
-                .jumbotron-8
+                .jumbotron-8.h-100
                   .row.justify-content-center.align-items-center.p-3
                     h4.text-white.m-top-1 Química:
                     p.mb--0 Se remoja la semilla en hipoclorito de sodio al 5% por 20, 30 o 60 minutos, posteriormente se lava con agua limpia hasta que desaparezca todo el hipoclorito y se verifica el nivel de reblandeo de la semilla.
 
           .row.justify-content-center.align-items-center(titulo="Estratificación")
-            .col-lg-10
+            .col-lg-11
               p.mb-3 Es un tratamiento pregerminativo para semillas en letargo, en el cual las semillas embebidas de agua son sometidas a un periodo de enfriamiento para que se efectuara la post maduración del embrión y así eliminar esta latencia. la estratificación se puede hacer en:
               img(src='@/assets/curso/images/tema1/fig_4.svg'  alt='')
             

@@ -37,74 +37,73 @@
                 img(src="@/assets/curso/images/tema2/img_3.png").mb-3
    
             .row.justify-content-center.align-items-star.p-3
-              .col-12.col-lg-12
+              .col-12.col-lg-10
                 h4 La maquinaria, herramientas y equipos
                 p.mb-3 cumplen una función estratégica en la optimización de las actividades del terreno: 
 
-            
-              .col-sm-6.col-lg-3.mb-3.mb-lg-0(data-aos="fade-right")
-                .jumbotron-9.p-2.mb-1
-                  .row.justify-content-center.align-items-center
-                    .col-4.col-lg-4.lg-0
-                      img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
-                    .col-9.col-lg-6.lg-0.text-center
-                      p.mb-0  Reducir tiempos
-                      
-              .col-sm-6.col-lg-3.mb-3.mb-lg-0(data-aos="fade-right")
-                .jumbotron-9.p-2.mb-1
-                  .row.justify-content-center.align-items-center
-                    .col-4.col-lg-4.lg-0
-                      img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
-                    .col-9.col-lg-6.lg-0.text-center
-                      p.mb-0 Aumento de la productividad
+                .row.justify-content-center
+                  .col-sm-6.col-lg-3.mb-3.mb-lg-0(data-aos="fade-right")
+                    .jumbotron-9.p-2.mb-1.h-100
+                      .row.justify-content-center.align-items-center
+                        .col-4.col-lg-4.lg-0
+                          img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
+                        .col-9.col-lg-6.lg-0.text-center
+                          p.mb-0  Reducir tiempos
+                          
+                  .col-sm-6.col-lg-3.mb-3.mb-lg-0(data-aos="fade-right")
+                    .jumbotron-9.p-2.mb-1.h-100
+                      .row.justify-content-center.align-items-center
+                        .col-4.col-lg-4.lg-0
+                          img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
+                        .col-9.col-lg-6.lg-0.text-center
+                          p.mb-0 Aumento de la productividad
 
-              .col-sm-6.col-lg-3.mb-3.mb-lg-0(data-aos="fade-right")
-                .jumbotron-9.p-2.mb-1
-                  .row.justify-content-center.align-items-center
-                    .col-4.col-lg-4.lg-0
-                      img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
-                    .col-9.col-lg-8.lg-0.text-center
-                      p.mb-0 Obtener mejores resultados en el cultivo
+                  .col-sm-6.col-lg-3.mb-3.mb-lg-0(data-aos="fade-right")
+                    .jumbotron-9.p-2.mb-1.h-100
+                      .row.justify-content-center.align-items-center
+                        .col-4.col-lg-4.lg-0
+                          img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
+                        .col-9.col-lg-8.lg-0.text-center
+                          p.mb-0 Obtener mejores resultados en el cultivo
 
-              .col-sm-6.col-lg-3.mb-3.mb-lg-0(data-aos="fade-right")
-                .jumbotron-9.p-2.mb-1
-                  .row.justify-content-center.align-items-center
-                    .col-4.col-lg-4.lg-0
-                      img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
-                    .col-9.col-lg-6.lg-0.text-center
-                      p.mb-0 Mejoramiento de la calidad
+                  .col-sm-6.col-lg-3.mb-3.mb-lg-0(data-aos="fade-right")
+                    .jumbotron-9.p-2.mb-1.h-100
+                      .row.justify-content-center.align-items-center
+                        .col-4.col-lg-4.lg-0
+                          img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
+                        .col-9.col-lg-6.lg-0.text-center
+                          p.mb-0 Mejoramiento de la calidad
 
-           
-              .col-sm-6.col-lg-3.mb-3.mb-lg-0.mt-3(data-aos="fade-right")
-                .jumbotron-9.p-2.mb-1
-                  .row.justify-content-center.align-items-center
-                    .col-4.col-lg-4.lg-0
-                      img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
-                    .col-9.col-lg-6.lg-0.text-center
-                      p.mb-0  Identificación del suelo
+                  .col-sm-6.col-lg-3.mb-3.mb-lg-0.mt-3(data-aos="fade-right")
+                    .jumbotron-9.p-2.mb-1.h-100
+                      .row.justify-content-center.align-items-center
+                        .col-4.col-lg-4.lg-0
+                          img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
+                        .col-9.col-lg-6.lg-0.text-center
+                          p.mb-0  Identificación del suelo
 
-              .col-sm-6.col-lg-3.mb-3.mb-lg-0.mt-3(data-aos="fade-right")
-                .jumbotron-9.p-2.mb-1
-                  .row.justify-content-center.align-items-center
-                    .col-4.col-lg-4.lg-0
-                      img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
-                    .col-9.col-lg-4.lg-0.text-center
-                      p.mb-0 Ahorro económico
+                  .col-sm-6.col-lg-3.mb-3.mb-lg-0.mt-3(data-aos="fade-right")
+                    .jumbotron-9.p-2.mb-1.h-100
+                      .row.justify-content-center.align-items-center
+                        .col-4.col-lg-4.lg-0
+                          img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
+                        .col-9.col-lg-4.lg-0.text-center
+                          p.mb-0 Ahorro económico
 
-              .col-sm-6.col-lg-3.mb-3.mb-lg-0.mt-3(data-aos="fade-right")
-                .jumbotron-9.p-2.mb-1
-                  .row.justify-content-center.align-items-center
-                    .col-4.col-lg-4.lg-0
-                      img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
-                    .col-9.col-lg-8.lg-0.text-center
-                      p.mb-0 Mejoramiento de las técnicas de siembra
+                  .col-sm-6.col-lg-3.mb-3.mb-lg-0.mt-3(data-aos="fade-right")
+                    .jumbotron-9.p-2.mb-1.h-100
+                      .row.justify-content-center.align-items-center
+                        .col-4.col-lg-4.lg-0
+                          img(src='@/assets/curso/images/tema2/ico_1.svg' alt='AvatarTop')
+                        .col-9.col-lg-8.lg-0.text-center
+                          p.mb-0 Mejoramiento de las técnicas de siembra
 
        
           
-              .jumbotron-7.p-2.mt-3(data-aos="fade-left") 
-                .row.justify-content-around.align-items-center
-                  .col-lg-10
-                    p.mb-0.text-center Sin embargo es importante identificar los impactos ambientales (agua, suelo, aire, flora, fauna) que se puedan generar con su implementación y diseñar estrategias de mitigación que permitan el desarrollo sostenible del proceso.
+                .jumbotron-7.p-2.mt-3(data-aos="fade-left") 
+                  .row.justify-content-around.align-items-center
+                    .col-lg-10
+                      p.mb-0.text-center Sin embargo es importante identificar los impactos ambientales (agua, suelo, aire, flora, fauna) que se puedan generar con su implementación y diseñar estrategias de mitigación que permitan el desarrollo sostenible del proceso.
 
     Separador
 
@@ -133,9 +132,9 @@
     .row.justify-content-center.align-items-star.my-5
       .col-lg-10
         .jumbotron-13.p-1(data-aos="fade-left") 
-          .row.justify-content-around.align-items-center
+          .row.justify-content-around.align-items-center.p-2
             .col-lg-2.col-6.d-flex.justify-content-center
-              img.mt-4(src='@/assets/curso/images/tema2/ico_2.svg',  alt='', style="width:100px; display:block; margin:auto 0 ;").mb-3
+              img.mt-2(src='@/assets/curso/images/tema2/ico_2.svg',  alt='', style="width:80px; display:block; margin:auto 0 ;").mb-3
             .col-lg-10
               p.mb-0 No calibrar los equipos y máquinas generaría alteración en volúmenes de fertilizantes o lo que puede alterar el correcto desarrollo del cultivo.
 
@@ -156,97 +155,78 @@
       .col-7.col-lg-6(data-aos="fade-left")
         img.mt-3(src='@/assets/curso/images/tema2/img_5.svg'  alt='')
 
-    .row.justify-content-center.align-items-lg-stretch.mb-3.m_tar-boton(data-aos="fade-left") 
-      .col-sm-6.col-lg-2.mb-3.mb-lg-0
-        .tarjeta--boton.color-custom.p-4.p-lg-2.bord_rad-tarboton
+    .row.justify-content-center.mb-3
+      .col-sm-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-right")
+        .jumbotron-9.p-2.mb-1.h-100
           .row.justify-content-center.align-items-center
-            .col-lg-4.col-md-4.col-4.mt-0.mt-lg-3
-              figure
-                img.img-t.mx-auto.ms-2img(src='@/assets/curso/images/tema2/ico_3.svg' alt='AvatarTop')
-            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-3
-              .row.align-items-center.justify-content-center
-                p.m-0 Tipo de semilla
+            .col-4.col-lg-6.lg-0
+              img(src='@/assets/curso/images/tema2/ico_3.svg' alt='AvatarTop')
+            .col-9.col-lg-6.lg-0.text-center.ps-0
+              p.mb-0 Tipo de semilla
+              
+      .col-sm-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-right")
+        .jumbotron-9.p-2.mb-1.h-100
+          .row.justify-content-center.align-items-center
+            .col-4.col-lg-6.lg-0
+              img(src='@/assets/curso/images/tema2/ico_4.svg' alt='AvatarTop')
+            .col-9.col-lg-6.lg-0.text-center.ps-0
+              p.mb-0 Periodo de siembra
 
-      .col-sm-6.col-lg-2.mb-3.mb-lg-0
-        .tarjeta--boton.color-custom.p-4.p-lg-2.bord_rad-tarboton
+      .col-sm-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-right")
+        .jumbotron-9.p-2.mb-1.h-100
           .row.justify-content-center.align-items-center
-            .col-lg-4.col-md-4.col-4.mt-0.mt-lg-3
-              figure
-                img.img-t.mx-auto.ms-2(src='@/assets/curso/images/tema2/ico_4.svg' alt='AvatarTop')
-            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-3
-              .row.align-items-center.justify-content-center
-                p.m-0 Periodo de siembra
+            .col-4.col-lg-5.lg-0.ps-0
+              img(src='@/assets/curso/images/tema2/ico_5.svg' alt='AvatarTop')
+            .col-9.col-lg-6.lg-0.text-center.ps-0
+              p.mb-0 Preparación del terreno
 
-      .col-sm-6.col-lg-2.mb-3.mb-lg-0
-        .tarjeta--boton.color-custom.p-4.p-lg-2.bord_rad-tarboton
+      .col-sm-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-right")
+        .jumbotron-9.p-2.mb-1.h-100
           .row.justify-content-center.align-items-center
-            .col-lg-4.col-xl-3.col-xxl-4.col-md-4.col-4.mt-0.mt-lg-2
-              figure
-                img.img-t.mx-auto.ms-2(src='@/assets/curso/images/tema2/ico_5.svg' alt='AvatarTop')
-            .col-lg-8.col-xl-9.col-xxl-8.col-md-8.col-8.mt-0.mt-lg-2
-              .row.align-items-center.justify-content-center
-                p.mb-2 Preparación del terreno
+            .col-4.col-lg-6.lg-0
+              img(src='@/assets/curso/images/tema2/ico_6.svg' alt='AvatarTop')
+            .col-9.col-lg-6.lg-0.text-center.ps-0
+              p.mb-0 Plazo de trasplante
 
-      .col-sm-6.col-lg-2.mb-3.mb-lg-0
-        .tarjeta--boton.color-custom.p-4.p-lg-2.bord_rad-tarboton
+      .col-sm-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-right")
+        .jumbotron-9.p-2.mb-1.h-100
           .row.justify-content-center.align-items-center
-            .col-lg-4.col-md-4.col-4.mt-0.mt-lg-3
-              figure
-                img.img-t.ms-2(src='@/assets/curso/images/tema2/ico_6.svg' alt='AvatarTop')
-            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-3
-              .row.align-items-center.justify-content-center
-                p.m-0 Plazo de trasplante
+            .col-4.col-lg-6.lg-0
+              img(src='@/assets/curso/images/tema2/ico_7.svg' alt='AvatarTop')
+            .col-9.col-lg-6.lg-0.text-center.ps-0
+              p.mb-0 Distancia de los surcos
+    .row.justify-content-center.mb-3
+      .col-sm-6.col-lg-2.mb-3.mb-lg-0.mt-3(data-aos="fade-right")
+        .jumbotron-9.p-2.mb-1.h-100
+          .row.justify-content-center.align-items-center
+            .col-4.col-lg-6.lg-0
+              img(src='@/assets/curso/images/tema2/ico_8.svg' alt='AvatarTop')
+            .col-9.col-lg-6.lg-0.text-center.ps-0
+              p.mb-0 Distancia de las plantas
 
-      .col-sm-6.col-lg-2.mb-3.mb-lg-0
-        .tarjeta--boton.color-custom.p-4.p-lg-2.bord_rad-tarboton
+      .col-sm-6.col-lg-2.mb-3.mb-lg-0.mt-3(data-aos="fade-right")
+        .jumbotron-9.p-2.mb-1.h-100
           .row.justify-content-center.align-items-center
-            .col-lg-4.col-md-4.col-4.mt-0.mt-lg-3
-              figure
-                img.img-t.mx-auto.ms-2(src='@/assets/curso/images/tema2/ico_7.svg' alt='AvatarTop')
-            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-3
-              .row.align-items-center.justify-content-center
-                p.m-0 Distancia de los surcos
+            .col-4.col-lg-5.lg-0
+              img.m-left(src='@/assets/curso/images/tema2/ico_9.svg' alt='AvatarTop')
+            .col-9.col-lg-6.lg-0.text-center.ps-0
+              p.m-left.mb-0 Fertilización
 
-    .row.justify-content-center.align-items-lg-stretch.mb-5.m_tar-boton(data-aos="fade-left") 
-      .col-sm-6.col-lg-2.mb-3.mb-lg-0
-        .tarjeta--boton.color-custom.p-4.p-lg-2.bord_rad-tarboton
+      .col-sm-6.col-lg-2.mb-3.mb-lg-0.mt-3(data-aos="fade-right")
+        .jumbotron-9.p-2.mb-1.h-100
           .row.justify-content-center.align-items-center
-            .col-lg-4.col-md-4.col-4.mt-0.mt-lg-3
-              figure
-                img.img-t.mx-auto.ms-2(src='@/assets/curso/images/tema2/ico_8.svg' alt='AvatarTop')
-            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-3
-              .row.align-items-center.justify-content-center
-                p.m-0 Distancia de las plantas
+            .col-4.col-lg-5.lg-0
+              img.m-left(src='@/assets/curso/images/tema2/ico_10.svg' alt='AvatarTop')
+            .col-9.col-lg-7.lg-0.text-center.ps-0
+              p.m-left.mb-0 Abonamiento
 
-      .col-sm-6.col-lg-2.mb-3.mb-lg-0
-        .tarjeta--boton.color-custom.p-4.p-lg-2.bord_rad-tarboton
+      .col-sm-6.col-lg-2.mb-3.mb-lg-0.mt-3(data-aos="fade-right")
+        .jumbotron-9.p-2.mb-1.h-100
           .row.justify-content-center.align-items-center
-            .col-lg-4.col-md-4.col-4.mt-0.mt-lg-3
-              figure
-                img.img-t.mx-auto.ms-2(src='@/assets/curso/images/tema2/ico_9.svg' alt='AvatarTop')
-            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-3
-              .row.align-items-center.justify-content-center
-                p.mb-4 Fertilización
-
-      .col-sm-6.col-lg-2.mb-3.mb-lg-0
-        .tarjeta--boton.color-custom.p-4.p-lg-2.bord_rad-tarboton
-          .row.justify-content-center.align-items-center
-            .col-lg-4.col-md-4.col-4.mt-0.mt-lg-3
-              figure
-                img.img-t.mx-auto.ms-2(src='@/assets/curso/images/tema2/ico_10.svg' alt='AvatarTop')
-            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-3
-              .row.align-items-center.justify-content-center
-                p.mb-4 Abonamiento
-
-      .col-sm-6.col-lg-2.mb-3.mb-lg-0
-        .tarjeta--boton.color-custom.p-4.p-lg-2.bord_rad-tarboton
-          .row.justify-content-center.align-items-center
-            .col-lg-4.col-md-4.col-4.mt-0.mt-lg-3
-              figure
-                img.img-t.mx-auto.ms-2(src='@/assets/curso/images/tema2/ico_11.svg' alt='AvatarTop')
-            .col-lg-8.col-md-8.col-8.mt-0.mt-lg-3
-              .row.align-items-center.justify-content-center
-                p.mb-4 Recogida
+            .col-4.col-lg-5.lg-0
+              img(src='@/assets/curso/images/tema2/ico_11.svg' alt='AvatarTop')
+            .col-9.col-lg-7.lg-0.text-center.ps-0
+              p.mb-0 Recogida
 
     p.mb-0 El productor debe llevar un registro organizado de las actividades desarrolladas, por eso es indispensable el diseño de los formatos que permitan plasmar la información recolectada, la cual debe estar disponible en físico y sistematizada con fines de tecnificar el proceso, y a su vez evitar retrasos en la ejecución de las actividades, que pueda generar un desequilibrio y pérdidas productivas. Por lo cual resulta indispensable planear perfectamente el proceso con el fin de reducir al máximo los posibles contratiempos y lograr que el proceso se realice de manera eficiente y eficaz. 
 
