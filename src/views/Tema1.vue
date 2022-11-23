@@ -87,7 +87,7 @@
                         .col-5.col-lg-4.lg-0
                           img(src='@/assets/curso/images/tema1/ico_5.svg' alt='AvatarTop')
                         .col-6.col-lg-8.lg-0
-                          p.mb-0  Tipo de material genético.
+                          p.mb-0.mt-2  Tipo de material genético.
 
                   .col-8.col-lg-3.mb-3(data-aos="fade-right")
                     .jumbotron-1.p-2.mb-1.h-100
@@ -95,16 +95,16 @@
                         .col-5.col-lg-4.lg-0
                           img(src='@/assets/curso/images/tema1/ico_6.svg' alt='AvatarTop')
                         .col-6.col-lg-8.lg-0
-                          p.mb-0 Área del lote en hectáreas.
+                          p.mb-0.mt-2  Área del lote en hectáreas.
 
                 .row.justify-content-center.mb-4
-                  .col-8.col-lg-3.mb-3(data-aos="fade-right")
-                    .jumbotron-1.p-2.mb-1.h-100
+                  .col-8.col-lg-5.mb-3(data-aos="fade-right")
+                    .jumbotron-1.p-2.mb-0.h-100
                       .row.justify-content-center.align-items-center
-                        .col-5.col-lg-4.lg-0
+                        .col-5.col-lg-3.lg-0
                           img(src='@/assets/curso/images/tema1/ico_7.svg' alt='AvatarTop')
                         .col-6.col-lg-8.lg-0
-                          p.mb-0  Número de especies sembradas.
+                          p.mb-0.mt-2  Número de especies sembradas.
 
                   .col-8.col-lg-3.mb-3(data-aos="fade-right")
                     .jumbotron-1.p-2.mb-1.h-100
@@ -126,28 +126,28 @@
                 h4 Características del suelo
                 .row.justify-content-center.align-items-star.p-3
                   p.mb-3 <b style='color:#0B481E'>Morfológicas  </b>   
-                  .row.justify-content-center.align-items-stretch.mb-4
+                  .row.justify-content-center.align-items-center.mb-4
                     .col-lg-12(data-aos="fade-right")
-                      .jumbotron-2.p-3.mb-3(data-aos="fade-right")
+                      .jumbotron-2.px-3.mb-3(data-aos="fade-right")
                         .row.justify-content-center.align-items-center
                           .col-8.col-lg-2.lg-0
-                            img(src='@/assets/curso/images/tema1/img_5.png' alt='AvatarTop').mb-3
+                            img.mt-3(src='@/assets/curso/images/tema1/img_5.png' alt='AvatarTop').mb-3
                           .col-10.col-lg-10.lg-0
                             p.mb-2 <b style='color:#0B481E'>TEXTURA</b>  
                             p.mb-0 Se encarga de dar propiedades particulares al suelo, puede ser arenas, limos y arcillas, depende del tamaño de la partícula en la porción de suelo.
 
-                      .jumbotron-2.p-3.mb-3(data-aos="fade-right")
+                      .jumbotron-2.px-3.mb-3(data-aos="fade-right")
                         .row.justify-content-center.align-items-center
                           .col-8.col-lg-2.lg-0
-                            img(src='@/assets/curso/images/tema1/img_6.svg' alt='AvatarTop').mb-3
+                            img.mt-3(src='@/assets/curso/images/tema1/img_6.svg' alt='AvatarTop').mb-3
                           .col-10.col-lg-10.lg-0
                             p.mb-2 <b style='color:#0B481E'>ESTRUCTURA </b>  
                             p.mb-0  De gran importancia en la permeabilidad del suelo, resistencia a la erosión y facilidad de trabajo, por lo cual puede ser laminar, prismática, columnar, granular y amorfa.
 
-                      .jumbotron-2.p-3.mb-3(data-aos="fade-right")
+                      .jumbotron-2.px-3.mb-3(data-aos="fade-right")
                         .row.justify-content-center.align-items-center
                           .col-8.col-lg-2.lg-0
-                            img(src='@/assets/curso/images/tema1/img_7.png' alt='AvatarTop').mb-3
+                            img.mt-3(src='@/assets/curso/images/tema1/img_7.png' alt='AvatarTop').mb-3
                           .col-10.col-lg-10.lg-0
                             p.mb-2 <b style='color:#0B481E'>COLOR</b> 
                             p.mb-0 En términos generales, el color negro indica alto contenido de materia orgánica, el color rojo indica abundancia de compuestos de hierro y con buen drenaje, el color gris  con poco drenaje.
@@ -409,7 +409,7 @@
                 .col-12.col-md-6.col-lg-4.mb-5.mb-lg-0 
                   img.mt-4(src='@/assets/curso/images/tema1/img_21.png')
                   .jumbotron-6.p-2
-                    p.mt-2 Ecológicos: Métodos naturales para controlar las plagas. Ortiga (decocción durante 10 minutos de 2 litros de agua con un puñado de ortiga).Ajo (decocción durante 10 minutos de 4 cabezas de ajo por un litro de agua).
+                    p.mt-2 <b>Ecológicos:</b> Métodos naturales para controlar las plagas. Ortiga (decocción durante 10 minutos de 2 litros de agua con un puñado de ortiga).Ajo (decocción durante 10 minutos de 4 cabezas de ajo por un litro de agua).
             
             .col-lg-11
               .row.justify-content-center.align-items-star.my-3
