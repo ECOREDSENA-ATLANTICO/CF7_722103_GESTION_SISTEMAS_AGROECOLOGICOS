@@ -24,7 +24,7 @@
             .row.justify-content-center.align-items-star.p-3
               .col-12.col-lg-4
                 h4 Equipos
-                p.mb-5 Son los ayudan a mejorar el terreno o eliminar lo que no debe estar en él, entre los que encontramos arado, rastra, asperjadora, sembradora, abonadora, empacadora.
+                p.mb-5 Son los que ayudan a mejorar el terreno o eliminar lo que no debe estar en él, entre los que encontramos arado, rastra, asperjadora, sembradora, abonadora, empacadora.
               .col-10.col-lg-6
                 img(src="@/assets/curso/images/tema2/img_2.png").mb-3
            

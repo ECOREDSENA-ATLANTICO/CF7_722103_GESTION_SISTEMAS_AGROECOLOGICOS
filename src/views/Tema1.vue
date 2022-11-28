@@ -40,7 +40,7 @@
                     .col-3.col-lg-3
                       img(src="@/assets/curso/images/tema1/ico_2.svg")
                     .col-lg-9
-                      h5.mb-0 Rios
+                      h5.mb-0 Ríos
                   .row.justify-content-center.align-items-center.p-2
                     .col-3.col-lg-3
                       img(src="@/assets/curso/images/tema1/ico_3.svg")
@@ -165,7 +165,7 @@
                       .row.justify-content-center.align-items-center
                         .col-12.col-lg-12.lg-0
                           p.mb-2.text-center <b style='color:#0B481E'>PROFUNDIDAD </b>  
-                          p.mb-3 Este factor puede favorecer o perjudicar el crecimiento de las raíces, pues entre más profundo más probabilidad para que la raíz busque agua y nutrientes. Encontramos horizonte A, horizonte B y horizonte C.lo.
+                          p.mb-3 Este factor puede favorecer o perjudicar el crecimiento de las raíces, pues entre más profundo más probabilidad para que la raíz busque agua y nutrientes. Encontramos horizonte A, horizonte B y horizonte C.
                   .col-lg-4.lg-0.mb-3
                     .jumbotron-3-1.p-4.mb-3(data-aos="fade-right")
                       .row.justify-content-center.align-items-center
@@ -189,7 +189,7 @@
             .row.justify-content-center.align-items-star.p-3
               .col-12.col-lg-10
                 h4.mb-3 Características del suelo
-                  p.my-3 <b style='color:#0B481E'>Físicas</b>   
+                  p.my-3 <b style='color:#0B481E'>Químicas</b>   
                   .row.justify-content-center.align-items-stretch.mb-3
                     .col-lg-6.lg-0
                       .jumbotron-3.p-3.mb-3.h-100(data-aos="fade-right")
@@ -234,7 +234,7 @@
 
     figure.mb-5(data-aos="fade-right")
       .video
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/vrBfulfljgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Pe689Y5Mcu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
     p.mb-3 Requiere de algunas actividades de labranza que involucra:
 
@@ -244,7 +244,7 @@
           .col-12.col-lg-3
             img.mt-3(src='@/assets/curso/images/tema1/img_15_2.png').mb-1
           .col-lg-9
-            p.mb-0 <b>Control de malezas:</b> es necesario despejar por completo el terreno para la preparación, tratado y posterior siembra, estas actividades dependen del origen del terreno (rastrojo grueso o mediano, ganadería, cultivos semestrales), por lo cual incluye equipos especiales que permitan realizarla limpieza adecuada, aunque en algunos casos se requiere de ultimación de control químico de malezas, cuya prescripción está dada por personal especializado en el área.
+            p.mb-0 <b>Control de malezas:</b> es necesario despejar por completo el terreno para la preparación, tratado y posterior siembra, estas actividades dependen del origen del terreno (rastrojo grueso o mediano, ganadería, cultivos semestrales), por lo cual incluye equipos especiales que permitan realizar la limpieza adecuada, aunque en algunos casos se requiere de ultimación de control químico de malezas, cuya prescripción está dada por personal especializado en el área.
 
       .jumbotron-14.px-3.mb-3
         .row.justify-content-center.align-items-center.mb-3  
@@ -321,7 +321,7 @@
               .crd_hover_txt
                 .crd_hover_txt--img
                   figure
-                    img(src="@/assets/curso/images/tema1/img_tj3.png")
+                    img(src="@/assets/curso/images/tema1/img_tj6.png")
                 .crd_hover_txt--body.text-center
                   h3.mb-0 <b>Páramo</b>
 
@@ -331,7 +331,7 @@
       .col-lg-10.bg-color-1.px-3.py-3
         .h3.mx-5.mb-0 Monitoreo de las condiciones ambientales
 
-    p.mb-3 conocer las condiciones ambientales, permitirá realizar un manejo adecuado del cultivo, ya que permite evitar pérdidas, mejorar las condiciones para la producción agrícola, llevar un calendario de las actividades de producción (siembra, desarrollo, cosecha) optimizar los recursos (aguas, nutrientes, insecticidas, fungicidas, entre otros) realizar un manejo adecuado de plagas y enfermedades y de este modo comprender las limitaciones o condiciones óptimas para el crecimiento y desarrollo de la planta.
+    p.mb-3 Conocer las condiciones ambientales, permitirá realizar un manejo adecuado del cultivo, ya que permite evitar pérdidas, mejorar las condiciones para la producción agrícola, llevar un calendario de las actividades de producción (siembra, desarrollo, cosecha) optimizar los recursos (aguas, nutrientes, insecticidas, fungicidas, entre otros) realizar un manejo adecuado de plagas y enfermedades y de este modo comprender las limitaciones o condiciones óptimas para el crecimiento y desarrollo de la planta.
 
 
     Separador
@@ -388,7 +388,7 @@
 
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-7(data-aos="fade-right") 
-        p.mb-3 Para obtener los beneficios que acarrea el establecimiento de coberturas vegetales, se debe garantizar una germinación rápida y uniforme de las semillas, pues en algunos casos la semillas de especies arbóreas germinan rápidamente cuando se someten a ciertas condiciones de humedad y temperatura, sin embargo, las semillas de otras especies presentan cierto grado de latencia, razón por la cual deben ser sometidas a algún tratamiento previo a la siembra con el fin de lograr una buena germinación. 
+        p.mb-3 Para obtener los beneficios que acarrea el establecimiento de coberturas vegetales, se debe garantizar una germinación rápida y uniforme de las semillas, pues en algunos casos las semillas de especies arbóreas germinan rápidamente cuando se someten a ciertas condiciones de humedad y temperatura, sin embargo, las semillas de otras especies presentan cierto grado de latencia, razón por la cual deben ser sometidas a algún tratamiento previo a la siembra con el fin de lograr una buena germinación. 
 
         p.mb-3 Existen algunos tratamientos que se realizan a la semilla con fin de proveer una sanidad óptima para evitar que virus, plagas o enfermedades puedan afectar su germinación y a su vez la productividad, de modo tal que no genere retrasos u otro impacto en el cultivo. Por lo cual encontramos:
       .col-12.col-lg-5(data-aos="fade-left")
@@ -409,7 +409,7 @@
                 .col-12.col-md-6.col-lg-4.mb-5.mb-lg-0 
                   img.mt-4(src='@/assets/curso/images/tema1/img_21.png')
                   .jumbotron-6.p-2
-                    p.mt-2 <b>Ecológicos:</b> Métodos naturales para controlar las plagas. Ortiga (decocción durante 10 minutos de 2 litros de agua con un puñado de ortiga).Ajo (decocción durante 10 minutos de 4 cabezas de ajo por un litro de agua).
+                    p.mt-2 <b>Ecológicos:</b> Métodos naturales para controlar las plagas. Ortiga (decocción durante 10 minutos de 2 litros de agua con un puñado de ortiga). Ajo (decocción durante 10 minutos de 4 cabezas de ajo por un litro de agua).
             
             .col-lg-11
               .row.justify-content-center.align-items-star.my-3
@@ -442,7 +442,7 @@
 
           .row.justify-content-center.align-items-center(titulo="Estratificación")
             .col-lg-11
-              p.mb-3 Es un tratamiento pregerminativo para semillas en letargo, en el cual las semillas embebidas de agua son sometidas a un periodo de enfriamiento para que se efectuara la post maduración del embrión y así eliminar esta latencia. la estratificación se puede hacer en:
+              p.mb-3 Es un tratamiento pregerminativo para semillas en letargo, en el cual las semillas embebidas de agua son sometidas a un periodo de enfriamiento para que se efectuara la post maduración del embrión y así eliminar esta latencia. La estratificación se puede hacer en:
               img(src='@/assets/curso/images/tema1/fig_4.svg'  alt='')
             
           .row.justify-content-center.align-items-star(titulo="Inoculación")
