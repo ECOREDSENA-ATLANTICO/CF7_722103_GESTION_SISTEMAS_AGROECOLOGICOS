@@ -213,8 +213,8 @@ export default {
   creditos: {
     liderEquipo: [
       {
-        nombre: 'María Camila García Santamaría',
-        cargo: 'Líder del equipo',
+        nombre: 'Tatiana Villamil',
+        cargo: 'Responsable del equipo',
         centro: 'Dirección General',
       },
     ],
@@ -239,7 +239,7 @@ export default {
       {
         nombre: 'Carolina Coca Salazar',
         cargo: 'Asesora Metodológica',
-        centro: 'Centro de Diseño y Metrología  - Distrito Capital',
+        centro: 'Centro de Diseño y Metrología - Distrito Capital',
       },
       {
         nombre: 'Sandra Patricia Hoyos Sepúlveda',
@@ -249,57 +249,54 @@ export default {
     ],
     desarrolloProducto: [
       {
-        nombre: 'Francisco José Lizcano Reyes',
-        cargo: 'Responsable del equipo',
+        nombre: 'Rafael Neftalí Lizcano Reyes',
+        cargo: 'Responsable de Desarrollo Curricular',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Perez',
+        nombre: 'Leyson Fabian Castaño Pérez',
         cargo: 'Soporte organizacional',
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Marcela Alarcon Granados',
-        cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Gustavo Adolfo Marún Suárez',
-        cargo: 'Desarrollo front-end',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
-      },
-      {
-        nombre: 'Gilberto Junior Rodríguez Rodríguez',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Wilson Andrés Arenales Cáceres',
-        cargo: 'Producción audiovisual',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Zuleidy María Ruíz Torres',
-        cargo: 'Producción audiovisual',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
-      },
-      {
-        nombre: 'Mayra Alejandra Alvarez ',
+        nombre: 'Fabian Cuartas',
         cargo: 'Validación de diseño y contenido',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Regional Atlántico - Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+      },
+      {
+        nombre: 'Gilberto Herrera',
+        cargo: 'Validación de diseño y contenido',
+        centro:
+          'Regional Atlántico - Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+      },
+      {
+        nombre: 'Liborio de Jesús Castañeda Valencia',
+        cargo: 'Desarrollo Fullstack Junior',
+        centro:
+          'Regional Atlántico - Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+      },
+      {
+        nombre: 'Eulices Orduz Amézquita',
+        cargo: 'Diseño de contenidos digitales',
+        centro:
+          'Regional Atlántico - Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
+      },
+
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Evaluador para contenidos inclusivos y accesibles',
+        centro:
+          'Regional Atlántico - Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
       },
     ],
     gestoresRepositorio: [
       {
-        nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios Regional Tolima',
+        nombre: 'Juan Carlos Cardona Acosta',
+        cargo: 'Validación de recursos digitales',
+        centro:
+          'Regional Atlántico - Centro Para El Desarrollo Agroecológico Y Agroindustrial Sabanalarga',
       },
     ],
   },
