@@ -530,7 +530,7 @@
         .row.justify-content-center.align-items-star
           .col-md-6.mb-4.mb-md-0
             h4 Al voleo
-            p.mb-3 las semillas son distribuidas y colocadas en forma dispersa, no alineada, por ejemplo, cilantro y algunos pastos.
+            p.mb-3 Las semillas son distribuidas y colocadas en forma dispersa, no alineada, por ejemplo, cilantro y algunos pastos.
 
             p.mb-3 Cuando se realiza siembra al voleo manual, quien va a realizar la siembra, lleva las semillas debidamente almacenadas y las distribuye con la mano en todo el terreno de manera uniforme, quedando en la superficie del suelo, razón por la cual deben ser incorporadas mediante una herramienta (rastrillo), dejando una capa fina de suelo de 0.5 cm a 1.5 cm, dependiendo esto del tamaño de la semilla.
 
@@ -544,13 +544,12 @@
         .row.justify-content-center.align-items-star
           .col-md-6.mb-4.mb-md-0
             h4 En surcos
-            p.mb-0 esta técnica depende del tamaño de la semilla, la cual consiste en distribuir las semillas en hileras, y a una distancia de dos o tres centímetros de separación. Ej. Sorgo, frijol, entre otros. 
+            p.mb-0 Esta técnica depende del tamaño de la semilla, la cual consiste en distribuir las semillas en hileras, y a una distancia de dos o tres centímetros de separación. Ej. Sorgo, frijol, entre otros. 
         
           .col-md-4
             figure
               img(src='@/assets/curso/images/tema1/img_30.png')
       
-    p.mb-3 <b>En surcos</b>, esta técnica depende del tamaño de la semilla, la cual consiste en distribuir las semillas en hileras, y a una distancia de dos o tres centímetros de separación. Ej. Sorgo, frijol, entre otros. 
     p.mb-3.text-center Cuando la siembra se realiza de manera directa y en surcos, se puede hacer
 
     ImagenInfografica.color-secundario.mb-5(data-aos="fade-right")
