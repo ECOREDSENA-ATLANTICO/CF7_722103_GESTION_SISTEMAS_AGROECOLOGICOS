@@ -14,7 +14,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/images/tema2/sintesis.svg", alt="alt")
+          img(src="@/assets/curso/images/tema2/sintesis.svg", alt="La gráfica muestra la sintesis del componente formativo Alistamiento de la siembra de material vegetal, desde la planeación de la siembra, pasando por las condiciones de terreno, preparación del suelo, manejo de la semilla y los arreglos productivos.")
       .col-auto
         a.anexo.mb-4(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

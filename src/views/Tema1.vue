@@ -13,7 +13,7 @@
 
         p.mb-0 Para poder llevar a cabo la siembra del cultivo, se debe alistar el material vegetal, además otras actividades de alistamiento, como la preparación del suelo, las áreas para la siembra, el manejo de la semilla, las condiciones ambientales, entre otros.
       .col-12.col-lg-5(data-aos="fade-right") 
-        img(src='@/assets/curso/images/tema1/img_1.png'  alt='')
+        img(src='@/assets/curso/images/tema1/img_1.png'  alt='La siembra es sin lugar a duda un factor crucial en el ciclo productivo, por ello, es importante dar cumplimiento a cada uno de los parámetros técnicos, con el fin de reducir las posibles variables e impactos que repercuten en la productividad, permitan optimizar recursos agroecológicos del cultivo, al igual que reducir costos del proceso. Para poder llevar a cabo la siembra del cultivo, se debe alistar el material vegetal, además otras actividades de alistamiento, como la preparación del suelo, las áreas para la siembra, el manejo de la semilla, las condiciones ambientales, entre otros.')
 
     .row.align-items-center.justify-content-star.mb-5.ps-2(data-aos="zoom-in-down")
       .col-lg-10.bg-color-1.px-5.py-2
@@ -33,41 +33,41 @@
                 .jumbotron
                   .row.justify-content-center.align-items-center.p-2
                     .col-3.col-lg-3
-                      img(src="@/assets/curso/images/tema1/ico_1.svg")
+                      img(src="@/assets/curso/images/tema1/ico_1.svg" alt="Muestra las que representa el mapa, línea roja representa las casas, línea azul representa los ríos y líneas negras representa las cercas.")
                     .col-lg-9
                       h5.mb-0 Casas
                   .row.justify-content-center.align-items-center.p-2
                     .col-3.col-lg-3
-                      img(src="@/assets/curso/images/tema1/ico_2.svg")
+                      img(src="@/assets/curso/images/tema1/ico_2.svg" alt="Muestra las que representa el mapa, línea roja representa las casas, línea azul representa los ríos y líneas negras representa las cercas.")
                     .col-lg-9
                       h5.mb-0 Ríos
                   .row.justify-content-center.align-items-center.p-2
                     .col-3.col-lg-3
-                      img(src="@/assets/curso/images/tema1/ico_3.svg")
+                      img(src="@/assets/curso/images/tema1/ico_3.svg" alt="Muestra las que representa el mapa, línea roja representa las casas, línea azul representa los ríos y líneas negras representa las cercas.")
                     .col-lg-9
                       h5.mb-0 Cercas
 
               .col-12.col-lg-6
-                img.mt-3(src="@/assets/curso/images/tema1/img_2.png").mb-3
+                img.mt-3(src="@/assets/curso/images/tema1/img_2.png" alt="La imagen nos muestra un mapa en el cual, identifica el tipo de casas , ríos y cercas.").mb-3
            
             .row.justify-content-center.align-items-star.p-3
               .col-12.col-lg-10
                 p.mb-5 Para poder realizar actividades de planimetría se requiere de equipo con tecnología especializada como es el caso del teodolito y GPS, además se requiere de elementos de interpretación  como:
-                img(src="@/assets/curso/images/tema1/fig_1_1.svg").mb-3
+                img(src="@/assets/curso/images/tema1/fig_1_1.svg" alt="Muestra una brújula, con puntos cardinales que permiten representar la orientación en un plano sobre la superficie de la tierra. Perímetro y área, mide la longitud de colindancia (linderos) con otros terrenos, mientras el área, la superficie dentro de dicho perímetro. Escala, relación matematica entre las dimensiones de un plano y las dimensiones reales sobre el terreno. Convenciones, consiste en signos gráficos que permiten identificar y localizar puntos de interés para el diseños de las áreas de siembra.").mb-3
            
             .row.justify-content-center.align-items-star.p-3
               .col-12.col-lg-4
                 h4 Altimetría del terreno
                 p.mb-3 Resulta importante, que una vez conocido el perímetro y  el área de la superficie se determine las variaciones de nivel del suelo, por lo cual se debe tener en cuenta las curvas de nivel, que son líneas que unen a todos los puntos que están a la misma altura en un terreno, por lo cual delimitan las variaciones del nivel del suelo, siendo indispensable para el diseño del sistema de riego y drenaje de un cultivo.
               .col-12.col-lg-6
-                img(src="@/assets/curso/images/tema1/img_3.svg").mb-3
+                img(src="@/assets/curso/images/tema1/img_3.svg" alt="Muestra una montaña con la altimetría del terreno.").mb-3
            
             .row.justify-content-center.align-items-star.p-3
               .col-12.col-lg-4
                 h4 Diseño de áreas de siembra
                 p.mb-3 El diseño de áreas de siembra permite el establecimiento de plantaciones, diseñan la red de canales de riego o drenaje, vías, el tamaño y forma de los lotes, entre otros.
               .col-12.col-lg-6
-                img(src="@/assets/curso/images/tema1/img_4.png").mb-3
+                img(src="@/assets/curso/images/tema1/img_4.png" alt="Muestra una imagen de una siembra, con un diseño de canales de riego o drenaje.").mb-3
 
             .row.justify-content-center.align-items-star.p-3
               .col-12.col-lg-10
@@ -353,14 +353,14 @@
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-down")
       .col-10.col-lg-3.mb-3
         .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj1_1.png')
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj1_1.png' alt="Muestra semillas nativas")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
               p.text-center.mb-0 <b>Nativas:</b> hace referencia a aquellas que tiene su origen en la misma región donde se cultivan.
       .col-10.col-lg-3.mb-3
         .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj2_2.png')
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj2_2.png' alt="Muestra semillas mejoradas")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
@@ -368,14 +368,14 @@
 
       .col-10.col-lg-3.mb-3
         .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj3_3.png')
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj3_3.png' alt="Muestra semillas hibridas ")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
               p.text-center.mb-0 <b>Hibridas:</b> semillas que resultan de cruzar dos variedades puras distintas; las encontramos hibridas de crecimiento determinado (su tallo delimita la formación de nudos y altura de planta), e hibridas de crecimiento libre (la producción de nudos continua por encima del tallo y la altura aumenta).
       .col-10.col-lg-3.mb-3
         .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj4_4.png')
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj4_4.png' alt="Muestra semillas criollas")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
@@ -443,7 +443,7 @@
           .row.justify-content-center.align-items-center(titulo="Estratificación")
             .col-lg-11
               p.mb-3 Es un tratamiento pregerminativo para semillas en letargo, en el cual las semillas embebidas de agua son sometidas a un periodo de enfriamiento para que se efectuara la post maduración del embrión y así eliminar esta latencia. La estratificación se puede hacer en:
-              img(src='@/assets/curso/images/tema1/fig_4.svg'  alt='')
+              img(src='@/assets/curso/images/tema1/fig_4.svg'  alt='Muestra una infografía con la explicación de la estratificación, secos, húmedos y aplicación de hormonas. Estas se explicarán debajo de la imagen.')
             
           .row.justify-content-center.align-items-star(titulo="Inoculación")
             .col-12.col-lg-6
@@ -631,14 +631,6 @@
     figure.mb-5(data-aos="fade-right")
       .video
         <iframe width="560" height="315" src="https://www.youtube.com/embed/Pe689Y5Mcu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-
-
-
-
 
 </template>
 

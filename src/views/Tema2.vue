@@ -153,7 +153,7 @@
         p.mb-0 El cronograma de siembra permite establecer una guía de las temporadas del año y las condiciones de siembra en cada una, con el fin de poder establecer un alto porcentaje de crecimiento y desarrollo del cultivo, teniendo en cuenta:
         
       .col-7.col-lg-6(data-aos="fade-left")
-        img.mt-3(src='@/assets/curso/images/tema2/img_5.svg'  alt='')
+        img.mt-3(src='@/assets/curso/images/tema2/img_5.svg'  alt='Muestra un cronograma de frutas versus meses.')
 
     .row.justify-content-center.mb-3
       .col-sm-6.col-lg-2.mb-3.mb-lg-0(data-aos="fade-right")
