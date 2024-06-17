@@ -357,14 +357,14 @@
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
-              p.text-center.mb-0 <b>Nativas:</b> hace referencia a aquellas que tiene su origen en la misma región donde se cultivan.
+              p.text-center.mb-0.text-small <b>Nativas:</b> hace referencia a aquellas que tiene su origen en la misma región donde se cultivan.
       .col-10.col-lg-3.mb-3
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj2_2.png' alt="Muestra semillas mejoradas")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
-              p.text-center.mb-0 <b>Mejoradas:</b> son aquellas semillas que han pasado por procesos y técnicas  (polinización controlada), con el fin de perfeccionar determinadas características (resistencia a enfermedades y plagas, alta productividad, precocidad, fácil adaptación a otras regiones).
+              p.text-center.mb-0.text-small <b>Mejoradas:</b> son aquellas semillas que han pasado por procesos y técnicas  (polinización controlada), con el fin de perfeccionar determinadas características (resistencia a enfermedades y plagas, alta productividad, precocidad, fácil adaptación a otras regiones).
 
       .col-10.col-lg-3.mb-3
         .tarjeta.tarjeta-foto-hover
@@ -372,14 +372,14 @@
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
-              p.text-center.mb-0 <b>Hibridas:</b> semillas que resultan de cruzar dos variedades puras distintas; las encontramos hibridas de crecimiento determinado (su tallo delimita la formación de nudos y altura de planta), e hibridas de crecimiento libre (la producción de nudos continua por encima del tallo y la altura aumenta).
+              p.text-center.mb-0.text-small <b>Hibridas:</b> semillas que resultan de cruzar dos variedades puras distintas; las encontramos hibridas de crecimiento determinado (su tallo delimita la formación de nudos y altura de planta), e hibridas de crecimiento libre (la producción de nudos continua por encima del tallo y la altura aumenta).
       .col-10.col-lg-3.mb-3
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj4_4.png' alt="Muestra semillas criollas")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
-              p.text-center.mb-0 <b>Criollas:</b> son aquellas que han logrado adaptarse a unas determinadas condiciones del entorno, de modo natural o por intervención antrópica.
+              p.text-center.mb-0.text-small <b>Criollas:</b> son aquellas que han logrado adaptarse a unas determinadas condiciones del entorno, de modo natural o por intervención antrópica.
 
     .row.align-items-center.justify-content-star.mb-5.ps-2(data-aos="zoom-in-down")
       .col-lg-10.bg-color-1.px-3.py-2
@@ -405,11 +405,11 @@
                 .col-12.col-md-6.col-lg-4.mb-5.mb-lg-0
                   img.mt-4(src='@/assets/curso/images/tema1/img_20.png')
                   .jumbotron-6.p-2
-                    p.my-4 <b>Químicos:</b> Productos químicos utilizados para la desinfección de la semilla como:  carboxina, mancozeb, maneb, metalaxil, malation, tiram tabendazol, entre otros.
+                    p.my-4 <b>Químicos:</b> productos químicos utilizados para la desinfección de la semilla como:  carboxina, mancozeb, maneb, metalaxil, malation, tiram tabendazol, entre otros.
                 .col-12.col-md-6.col-lg-4.mb-5.mb-lg-0 
                   img.mt-4(src='@/assets/curso/images/tema1/img_21.png')
                   .jumbotron-6.p-2
-                    p.mt-2 <b>Ecológicos:</b> Métodos naturales para controlar las plagas. Ortiga (decocción durante 10 minutos de 2 litros de agua con un puñado de ortiga). Ajo (decocción durante 10 minutos de 4 cabezas de ajo por un litro de agua).
+                    p.mt-2 <b>Ecológicos:</b> métodos naturales para controlar las plagas. Ortiga (decocción durante 10 minutos de 2 litros de agua con un puñado de ortiga). Ajo (decocción durante 10 minutos de 4 cabezas de ajo por un litro de agua).
             
             .col-lg-11
               .row.justify-content-center.align-items-star.my-3
@@ -426,19 +426,19 @@
                 .jumbotron-8.h-100
                   .row.justify-content-center.align-items-center.p-3
                       h4.text-white.m-top-1 Manual:
-                      p.mb-0 Involucra frotar la semilla manualmente sobre una superficie abrasiva, quemar la cubierta, perforar los bordes de la cubierta y colocar en remojo con agua tibia (60°C), hasta que se permita el ingreso de agua y oxígeno al interior.
+                      p.mb-0.text-small Involucra frotar la semilla manualmente sobre una superficie abrasiva, quemar la cubierta, perforar los bordes de la cubierta y colocar en remojo con agua tibia (60°C), hasta que se permita el ingreso de agua y oxígeno al interior.
               
               .col-sm-6.col-lg-3.mb-4.mb-xl-0
                 .jumbotron-8.h-100
                   .row.justify-content-center.align-items-center.p-3
                     h4.text-white.m-top-1  Mecánica:
-                    p.mt-4 Requiere de equipos o herramientas para realizar el proceso (abrasión con material, abrasión contra superficies, por percusión).
+                    p.mt-4.text-small Requiere de equipos o herramientas para realizar el proceso (abrasión con material, abrasión contra superficies, por percusión).
               
               .col-sm-6.col-lg-3.mb-4.mb-xl-0
                 .jumbotron-8.h-100
                   .row.justify-content-center.align-items-center.p-3
                     h4.text-white.m-top-1 Química:
-                    p.mb--0 Se remoja la semilla en hipoclorito de sodio al 5% por 20, 30 o 60 minutos, posteriormente se lava con agua limpia hasta que desaparezca todo el hipoclorito y se verifica el nivel de reblandeo de la semilla.
+                    p.mb-0.text-small Se remoja la semilla en hipoclorito de sodio al 5% por 20, 30 o 60 minutos, posteriormente se lava con agua limpia hasta que desaparezca todo el hipoclorito y se verifica el nivel de reblandeo de la semilla.
 
           .row.justify-content-center.align-items-center(titulo="Estratificación")
             .col-lg-11
@@ -550,7 +550,7 @@
             figure
               img(src='@/assets/curso/images/tema1/img_30.png')
       
-    p.mb-3.text-center Cuando la siembra se realiza de manera directa y en surcos, se puede hacer
+    p.mb-3.text-center Cuando la siembra se realiza de manera directa y en surcos, se puede hacer:
 
     ImagenInfografica.color-secundario.mb-5(data-aos="fade-right")
       template(v-slot:imagen)

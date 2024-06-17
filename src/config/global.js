@@ -196,14 +196,14 @@ export default {
   ],
   complementario: [
     {
-      tema: 'Planificación de la siembra',
+      tema: '1.3. Manejo de semillas y material de propagación.',
       referencia:
         'Centro de Semillas Forestales de DANIDA. FAO (1991). Guía para la manipulación de semillas forestales ',
       tipo: 'Libro',
       link: 'https://www.fao.org/3/ad232s/ad232s00.htm#TOC',
     },
     {
-      tema: 'Planificación de la siembra',
+      tema: '1.4. Arreglos topológicos.',
       referencia:
         'Tips y temas agronómicos.  [Tips y Temas Agronómicos]. (2022, 7 de febrero). Densidad de plantación [Video]. Youtube',
       tipo: 'Video',
