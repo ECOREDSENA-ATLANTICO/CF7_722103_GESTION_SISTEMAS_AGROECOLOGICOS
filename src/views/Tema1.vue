@@ -342,7 +342,7 @@
     .jumbotron-5.p-4.mb-5(data-aos="fade-right")
       .row.justify-content-center.align-items-stretch.mb-4
         .col-6.col-lg-4.lg-0
-          img.mt-3(src='@/assets/curso/images/tema1/img_19.svg')
+          img.mt-3(src='@/assets/curso/images/tema1/img_19-.svg')
         .col-lg-8.lg-0
           p.mt-5 La semilla es una parte de la planta con flores, que habitualmente se encuentra dentro del fruto, en cuyo interior se encuentra el embrión, el cual bajo unas condiciones adecuadas da lugar a una nueva planta. Está formada por tres partes, siendo estas, <b style='color:#0B481E'>el embrión, los tejidos de almacenamiento y las cubiertas protectoras; a su vez la germinación se da por absorción de agua (remojo), la cual causa el hinchamiento de la misma y finalmente se da ruptura de la cubierta protectora,</b> seguido se da el inicio a la actividad enzimática y el metabolismo respiratorio, con la asimilación de las reservas que estimulan el embrión, terminando con el crecimiento, evidenciándose de esta manera que emerge la raíz y posteriormente el tallo. Para que dichas etapas sucedan de una manera exitosa se requiere que en el proceso de germinación se seleccione un buen sustrato y manejen adecuadamente la humedad, el oxígeno y la temperatura.
 
@@ -630,7 +630,8 @@
 
     figure.mb-5(data-aos="fade-right")
       .video
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/Pe689Y5Mcu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/vrBfulfljgw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 </template>
 

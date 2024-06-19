@@ -124,8 +124,6 @@ export default {
     {
       referencia:
         'Brechelt, A. (2004). Manejo ecológico de plagas y enfermedades. Red de Acción en Plaguicidas y sus Alternativas para América Latina. (RAP-AL)  ',
-      link:
-        'https://webzoom.freewebs.com/rentawebscr/alonsocr2013/descargas/Manejo_Ecologico_de_Plagas_A.Bretchel.pdf',
     },
     {
       referencia:
