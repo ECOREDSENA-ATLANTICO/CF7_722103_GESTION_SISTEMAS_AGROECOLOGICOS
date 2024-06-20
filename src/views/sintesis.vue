@@ -9,7 +9,7 @@
 
     p.mb-3 Dentro del proceso de siembra se deben tener en cuenta procedimientos, protocolos, cronogramas, diseño y diligenciamiento de formatos y demás elementos claves, que lo guíen, con el fin de poder obtener los resultados esperados y así mismo establecer las variables de influencia.
 
-    p.mb-5 Así pues, un resumen de lo visto en el presente componente, podrá ser visualizado en el siguiente mapa conceptual.
+    p.mb-5 Así pues, un resumen de lo visto en el presente componente, se podrá apreciar en el siguiente mapa conceptual.
 
     .row.justify-content-center
       .col-lg-10.mb-5

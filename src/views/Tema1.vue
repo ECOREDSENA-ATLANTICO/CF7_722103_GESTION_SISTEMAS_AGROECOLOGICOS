@@ -306,7 +306,7 @@
               .crd_hover_txt
                 .crd_hover_txt--img
                   figure
-                    img(src="@/assets/curso/images/tema1/img_tj1.png")
+                    img(src="@/assets/curso/images/tema1/img_tj4.png")
                 .crd_hover_txt--body.text-center
                   h3.mb-0 <b>Bosque seco montano bajo</b>
           .row.justify-content-center
@@ -314,7 +314,7 @@
               .crd_hover_txt
                 .crd_hover_txt--img
                   figure
-                    img(src="@/assets/curso/images/tema1/img_tj2.png")
+                    img(src="@/assets/curso/images/tema1/img_tj5.png")
                 .crd_hover_txt--body.text-center
                   h3.mb-0 <b>Bosque húmedo montano</b>
             .col-lg-6
