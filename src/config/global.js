@@ -3,9 +3,9 @@ export default {
     componenteFormativo: 'Alistamiento de la siembra de material vegetal',
     descripcionCurso:
       'En este componente formativo se abordan temas que le permitirán planificar el proceso de siembra del material vegetal, teniendo en cuenta el cultivo seleccionado, las técnicas y condiciones agroecológicas, además del diseño de los arreglos productivos según especies seleccionadas, criterio técnico y principios agroecológicos, incluyendo equipos y herramientas necesarias, finalizando con la definición de las actividades, tiempos, recursos y responsables para llevar a cabo a la siembra según principios agroecológicos y criterio técnico.',
-    fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.svg'),
+    fondoBannerPrincipal: require('@/assets/curso/images/header/fondo-banner-principal.png'),
     imagenBannerPrincipal: require('@/assets/curso/images/header/banner-principal.png'),
-    fondoBannerInterno: require('@/assets/curso/images/header/interno.svg'),
+    fondoBannerInterno: require('@/assets/curso/images/header/interno.png'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -107,6 +107,11 @@ export default {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
         nombreRuta: 'referencias',
+      },
+      {
+        icono: 'fas fa-file-pdf',
+        titulo: 'Descargar PDF',
+        download: 'downloads/722103_CF07_DU.pdf',
       },
       {
         icono: 'fas fa-download',

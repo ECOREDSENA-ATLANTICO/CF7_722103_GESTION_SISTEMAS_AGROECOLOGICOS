@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.3.1**
+# **CF7_722103_GESTION_SISTEMAS_AGROECOLOGICOS**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED-BASE-2021](https://ecored-sena.github.io/ECORED-BASE-2021)
+[https://ecoredsena-atlantico.github.io/CF7_722103_GESTION_SISTEMAS_AGROECOLOGICOS](https://ecoredsena-atlantico.github.io/CF7_722103_GESTION_SISTEMAS_AGROECOLOGICOS)
 
 #
 
