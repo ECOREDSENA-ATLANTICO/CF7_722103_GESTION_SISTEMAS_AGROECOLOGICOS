@@ -251,7 +251,7 @@
           .col-12.col-lg-3
             img.mt-3(src='@/assets/curso/images/tema1/img_16_2.png').mb-1
           .col-lg-9
-            p.mb-0 <b>Control de plagas:</b>  es importante identificar las posibles plagas que pueden afectar el cultivo, e identificar las condiciones para su desarrollo y de este modo poder inhibir los escenarios propicios que puedan afectar la plantación. Para contrarrestar este fenómeno se puede utilizar productos químicos o naturales, que estén supervisados por personal idóneo de tal modo que no se afecte el desarrollo adecuado de la plantación.
+            p.mb-0 <b>Control de plagas:</b>  es importante identificar las posibles plagas que pueden afectar el cultivo, e identificar las condiciones para su desarrollo y de este modo poder inhibir los escenarios propicios que puedan afectar la plantación. Para contrarrestar este fenómeno se puede utilizar productos químicos o naturales, que estén supervisados por personal idóneo, de tal modo que no se afecte el desarrollo adecuado de la plantación.
 
       .jumbotron-14.px-3.mb-3
         .row.justify-content-center.align-items-center.mb-3  
@@ -283,14 +283,14 @@
               .crd_hover_txt
                 .crd_hover_txt--img
                   figure
-                    img(src="@/assets/curso/images/tema1/img_tj1.png")
+                    img(src="@/assets/curso/images/tema1/img_tj1.png", alt="Bosque seco tropical")
                 .crd_hover_txt--body.text-center
                   h3.mb-0 <b>Bosque seco tropical</b>
             .col-lg-6.mb-3
               .crd_hover_txt
                 .crd_hover_txt--img
                   figure
-                    img(src="@/assets/curso/images/tema1/img_tj2.png")
+                    img(src="@/assets/curso/images/tema1/img_tj2.png", alt="Bosque húmedo tropical")
                 .crd_hover_txt--body.text-center
                   h3.mb-0 <b>Bosque húmedo tropical</b>
           .row.justify-content-center
@@ -298,7 +298,7 @@
               .crd_hover_txt
                 .crd_hover_txt--img
                   figure
-                    img(src="@/assets/curso/images/tema1/img_tj3.png")
+                    img(src="@/assets/curso/images/tema1/img_tj3.png", alt="Bosque húmedo premontano")
                 .crd_hover_txt--body.text-center
                   h3.mb-0 <b>Bosque húmedo premontano</b>
 
@@ -306,7 +306,7 @@
               .crd_hover_txt
                 .crd_hover_txt--img
                   figure
-                    img(src="@/assets/curso/images/tema1/img_tj4.png")
+                    img(src="@/assets/curso/images/tema1/img_tj4.png", alt="Bosque seco montano bajo")
                 .crd_hover_txt--body.text-center
                   h3.mb-0 <b>Bosque seco montano bajo</b>
           .row.justify-content-center
@@ -314,14 +314,14 @@
               .crd_hover_txt
                 .crd_hover_txt--img
                   figure
-                    img(src="@/assets/curso/images/tema1/img_tj5.png")
+                    img(src="@/assets/curso/images/tema1/img_tj5.png", alt="Bosque húmedo montano")
                 .crd_hover_txt--body.text-center
                   h3.mb-0 <b>Bosque húmedo montano</b>
             .col-lg-6
               .crd_hover_txt
                 .crd_hover_txt--img
                   figure
-                    img(src="@/assets/curso/images/tema1/img_tj6.png")
+                    img(src="@/assets/curso/images/tema1/img_tj6.png", alt="Páramo")
                 .crd_hover_txt--body.text-center
                   h3.mb-0 <b>Páramo</b>
 
@@ -344,7 +344,7 @@
         .col-6.col-lg-4.lg-0
           img.mt-3(src='@/assets/curso/images/tema1/img_19-.svg')
         .col-lg-8.lg-0
-          p.mt-5 La semilla es una parte de la planta con flores, que habitualmente se encuentra dentro del fruto, en cuyo interior se encuentra el embrión, el cual bajo unas condiciones adecuadas da lugar a una nueva planta. Está formada por tres partes, siendo estas, <b style='color:#0B481E'>el embrión, los tejidos de almacenamiento y las cubiertas protectoras; a su vez la germinación se da por absorción de agua (remojo), la cual causa el hinchamiento de la misma y finalmente se da ruptura de la cubierta protectora,</b> seguido se da el inicio a la actividad enzimática y el metabolismo respiratorio, con la asimilación de las reservas que estimulan el embrión, terminando con el crecimiento, evidenciándose de esta manera que emerge la raíz y posteriormente el tallo. Para que dichas etapas sucedan de una manera exitosa se requiere que en el proceso de germinación se seleccione un buen sustrato y manejen adecuadamente la humedad, el oxígeno y la temperatura.
+          p.mt-5 La semilla es una parte de la planta con flores, que habitualmente se encuentra dentro del fruto, en cuyo interior se encuentra el embrión, el cual bajo unas condiciones adecuadas da lugar a una nueva planta. Está formada por tres partes, siendo estas, <b style='color:#0B481E'>el embrión, los tejidos de almacenamiento y las cubiertas protectoras; a su vez, la germinación se da por absorción de agua (remojo), la cual causa el hinchamiento de la misma y finalmente se da ruptura de la cubierta protectora,</b> seguido se da el inicio a la actividad enzimática y el metabolismo respiratorio, con la asimilación de las reservas que estimulan el embrión, terminando con el crecimiento, evidenciándose de esta manera que emerge la raíz y posteriormente el tallo. Para que dichas etapas sucedan de una manera exitosa se requiere que en el proceso de germinación se seleccione un buen sustrato y manejen adecuadamente la humedad, el oxígeno y la temperatura.
 
     p.mb-5 Existe variedad de semillas, las cuales cumplen distintas funciones y usos, a continuación, se presentan como:
 
@@ -368,11 +368,11 @@
 
       .col-10.col-lg-3.mb-3
         .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj3_3.png' alt="Muestra semillas hibridas ")
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj3_3.png' alt="Muestra semillas híbridas ")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
-              p.text-center.mb-0.text-small <b>Hibridas:</b> semillas que resultan de cruzar dos variedades puras distintas; las encontramos hibridas de crecimiento determinado (su tallo delimita la formación de nudos y altura de planta), e hibridas de crecimiento libre (la producción de nudos continua por encima del tallo y la altura aumenta).
+              p.text-center.mb-0.text-small <b>Híbridas:</b> semillas que resultan de cruzar dos variedades puras distintas; las encontramos híbridas de crecimiento determinado (su tallo delimita la formación de nudos y altura de planta), e híbridas de crecimiento libre (la producción de nudos continua por encima del tallo y la altura aumenta).
       .col-10.col-lg-3.mb-3
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/images/tema1/tj4_4.png' alt="Muestra semillas criollas")
@@ -418,7 +418,7 @@
                     .col-lg-2.col-6.d-flex.justify-content-center
                       img.mt-4(src='@/assets/curso/images/tema1/ico_9.svg',  alt='', style="width:120px; display:block; margin:auto 0 ;").mb-3
                     .col-lg-10
-                      p.mb-0 Es importante que cuando se realice el proceso de desinfección, esté guiado por un experto en el área, con el fin de aplicar la dosis necesaria del desinfectante de tal modo que no se generen efectos adversos para la salud.
+                      p.mb-0 Es importante que cuando se realice el proceso de desinfección, esté guiado por un experto en el área, con el fin de aplicar la dosis necesaria del desinfectante, de tal modo que no se generen efectos adversos para la salud.
 
           .row.justify-content-center.mb-3.p-4(titulo="Escarificación")
               p.mb-3 Es el proceso de desgaste de la cubierta de la semilla con el fin de permitir el paso del agua y oxígeno necesarios para iniciar la germinación. Esta se puede dar de manera:
@@ -426,7 +426,7 @@
                 .jumbotron-8.h-100
                   .row.justify-content-center.align-items-center.p-3
                       h4.text-white.m-top-1 Manual:
-                      p.mb-0.text-small Involucra frotar la semilla manualmente sobre una superficie abrasiva, quemar la cubierta, perforar los bordes de la cubierta y colocar en remojo con agua tibia (60°C), hasta que se permita el ingreso de agua y oxígeno al interior.
+                      p.mb-0.text-small Involucra frotar la semilla manualmente sobre una superficie abrasiva, quemar la cubierta, perforar los bordes de la cubierta y colocar en remojo con agua tibia (60 °C), hasta que se permita el ingreso de agua y oxígeno al interior.
               
               .col-sm-6.col-lg-3.mb-4.mb-xl-0
                 .jumbotron-8.h-100
@@ -442,7 +442,7 @@
 
           .row.justify-content-center.align-items-center(titulo="Estratificación")
             .col-lg-11
-              p.mb-3 Es un tratamiento pregerminativo para semillas en letargo, en el cual las semillas embebidas de agua son sometidas a un periodo de enfriamiento para que se efectuara la post maduración del embrión y así eliminar esta latencia. La estratificación se puede hacer en:
+              p.mb-3 Es un tratamiento pre germinativo para semillas en letargo, en el cual las semillas embebidas de agua son sometidas a un periodo de enfriamiento para que se efectuara la post maduración del embrión y así eliminar esta latencia. La estratificación se puede hacer en:
               img(src='@/assets/curso/images/tema1/fig_4.svg'  alt='Muestra una infografía con la explicación de la estratificación, secos, húmedos y aplicación de hormonas. Estas se explicarán debajo de la imagen.')
             
           .row.justify-content-center.align-items-star(titulo="Inoculación")
@@ -467,14 +467,14 @@
       .col-lg-7(data-aos="fade-right") 
         p.mb-3 La preparación del terreno involucra diferentes actividades con el fin de asegurar un buen lugar de siembra, que garantice la germinación y emergencia de la semilla, no obstante, esto también depende de las características físicas y genéticas de la semilla, y la manera en que se siembre.
 
-        p.mb-3 La siembra, sencillamente consiste en buscar alternativas para colocar semillas en el suelo o en algún sustrato adecuado, con el fin de que germinen y emerjan nuevas plantas, acompañado de otras actividades como riego, fertilización y prácticas culturales.
+        p.mb-3 La siembra, sencillamente consiste en buscar alternativas para colocar semillas en el suelo o en algún sustratos adecuados, con el fin de que germinen y emerjan nuevas plantas, acompañado de otras actividades como riego, fertilización y prácticas culturales.
 
         p.mb-3 Para lograr un óptimo proceso de siembra es necesario tener en cuenta el tamaño de la semilla, para poder establecer la profundidad en que se debe hacer la siembra, además de las necesidades de espacio, agua, nutrientes, aire y distanciamiento.
   
       .col-12.col-lg-5(data-aos="fade-left")
         img(src='@/assets/curso/images/tema1/img_24.png'  alt='')
 
-    p.mb-3 La preparación del terreno para la siembra depende de la profundidad, distancia, época, tipo de siembra (directa o indirecta), humedad, aireación densidad poblacional, con el fin de que la semilla logre germinar y emerger, por lo tanto, es importante tener en cuenta:
+    p.mb-3 La preparación del terreno para la siembra depende de la profundidad, distancia, época, tipo de siembra (directa o indirecta), humedad, aireación, densidad poblacional, con el fin de que la semilla logre germinar y emerger, por lo tanto, es importante tener en cuenta:
 
     .row.justify-content-center.align-items-center.mb-0
       .col-lg-12
@@ -624,7 +624,7 @@
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
               h4.text-center.mb-3 Asociación de cultivos
-              p.text-center.mb-0 Se combinan en un mismo terreno y al tiempo, dos o más cultivos, ayudando a inhibir plagas, debido al olor que generan algunas plantas (ajo, romero, manzanilla, cebolla), o por el contrario atracción de insectos beneficiosos que sirven como control biológico, además de optimización de recursos como agua y nutrientes.
+              p.text-center.mb-0 Se combinan en un mismo terreno y al tiempo, dos o más cultivos, ayudando a inhibir plagas, debido al olor que generan algunas plantas (ajo, romero, manzanilla, cebolla), o por el contrario, atracción de insectos beneficiosos que sirven como control biológico, además de optimización de recursos como agua y nutrientes.
       
     p.mb-3 Los arreglos productivos se relacionan directamente con las necesidades que requiera el cultivo, esto depende del tipo de siembra que se ejecute, los diferentes sistemas que se suelen emplear en el ámbito de la agricultura se presentan a continuación: 
 

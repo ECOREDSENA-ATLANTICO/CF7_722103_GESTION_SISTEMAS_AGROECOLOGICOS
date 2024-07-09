@@ -103,7 +103,7 @@
                 .jumbotron-7.p-2.mt-3(data-aos="fade-left") 
                   .row.justify-content-around.align-items-center
                     .col-lg-10
-                      p.mb-0.text-center Sin embargo es importante identificar los impactos ambientales (agua, suelo, aire, flora, fauna) que se puedan generar con su implementación y diseñar estrategias de mitigación que permitan el desarrollo sostenible del proceso.
+                      p.mb-0.text-center Sin embargo, es importante identificar los impactos ambientales (agua, suelo, aire, flora, fauna) que se puedan generar con su implementación y diseñar estrategias de mitigación que permitan el desarrollo sostenible del proceso.
 
     Separador
 
